@@ -1,0 +1,6 @@
+**/*.xlsx
+**/*.jpg
+**/*.csv
+**/*.html
+**/__pycache__
+**/logs
