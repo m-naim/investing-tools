@@ -87,6 +87,8 @@ def predictionData(model, data):
     final_df = get_final_df(model, data)
     # predict the future price
     result['ticker']= data['df']['ticker'][1]
+    ticker=result['ticker']
+    print(f'Predicting : {ticker}')
     result['last']= data['df']['adjclose'][-1]
     result['future_price'] = predict(model, data)
     result['expected_performance']= result['future_price']/result['last']-1

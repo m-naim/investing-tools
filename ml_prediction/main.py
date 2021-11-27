@@ -1,9 +1,13 @@
-from sklearn.model_selection import train_test_split
-
 import os
 import time
 import modelBuilder
 import setting
+import pandas as pd
+
+from sklearn.model_selection import train_test_split
+from importlib.machinery import SourceFileLoader
+
+db = SourceFileLoader('*', '../config.py').load_module().db
 
 if not os.path.isdir("models"):
     os.mkdir("models")
@@ -14,9 +18,10 @@ if not os.path.isdir("data"):
 
 # date now
 date_now = time.strftime("%Y-%m-%d")
+tickers = pd.read_excel('watchlist.xlsx')['tickers'].tolist()
 
-tickers = ["FDX","MSFT","SU.PA","SGO.PA","NXI.PA","TTE.PA","VCT.PA","ATO.PA","^FCHI"]
 def getModelAndDataTiker(ticker):
+    print(f'Geting model: {ticker}')
     scale_str = f"sc-{int(setting.SCALE)}"
     shuffle_str = f"sh-{int(setting.SHUFFLE)}"
     split_by_date_str = f"sbd-{int(setting.SPLIT_BY_DATE)}"
@@ -45,5 +50,9 @@ tickers_prediction_metrics=list(map(lambda tup:pridictor.predictionData(tup[0],t
 from pandas import DataFrame as dfm
 predicted_result_filename=  f"predictions_by_{setting.LOOKUP_STEP}_{date_now}"
 result_df= dfm(tickers_prediction_metrics)
-result_df.to_csv(os.path.join("predections","csv",f"{predicted_result_filename}.csv" ))
 result_df.to_excel(os.path.join("predections","xlsx",f"{predicted_result_filename}.xlsx"))
+
+# save on mongoDB
+list_of_preds= list(result_df.T.to_dict().values())
+document={'date': date_now, 'data': list_of_preds }
+db.predictions.insert_one(document)

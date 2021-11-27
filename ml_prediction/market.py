@@ -40,7 +40,7 @@ def load_data(  ticker, n_steps=setting.N_STEPS,
     # see if ticker is already a loaded stock from yahoo finance
     if isinstance(ticker, str):
         # load it from yahoo_fin library
-        df = si.get_data(ticker)
+        df = si.get_data(ticker,interval=setting.PERIOD)
     elif isinstance(ticker, pd.DataFrame):
         # already loaded, use it directly
         df = ticker

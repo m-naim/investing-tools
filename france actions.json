@@ -1,0 +1,7477 @@
+[ {
+  "symbol" : "BUP.PA",
+  "name" : "Biom'Up S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VGP.BR",
+  "name" : "VGP NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IMDA.PA",
+  "name" : "Immobiliere Dassault SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLRZE.LS",
+  "name" : "RAIZE - Institui����o de Pagamentos, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDYN.PA",
+  "name" : "Dynafond SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FALG.PA",
+  "name" : "Fermentalg SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MRN.PA",
+  "name" : "Mersen SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HDP.PA",
+  "name" : "Les Hotels de Paris SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FDJ.PA",
+  "name" : "La Francaise des Jeux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TES.PA",
+  "name" : "Tessi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LNC.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALX.AS",
+  "name" : "Alumexx NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ES.PA",
+  "name" : "Esso Societe Anonyme Francaise SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEO2.PA",
+  "name" : "EO2 SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NRO.PA",
+  "name" : "Neurones SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OBEL.BR",
+  "name" : "Orange Belgium SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UNBL.PA",
+  "name" : "Unibel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNOR.LS",
+  "name" : "Nexponor Sociedade Especial de Investimento Imobiliario de Capital Fixo SICAFI SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AI.PA",
+  "name" : "L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VTA.AS",
+  "name" : "Volta Finance Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBFR.PA",
+  "name" : "Sidetrade SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALU10.PA",
+  "name" : "U10 SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSGD.PA",
+  "name" : "Spineguard SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALUMS.PA",
+  "name" : "Umanis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFEN.AS",
+  "name" : "Alfen NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSNT.PA",
+  "name" : "Sintesi SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABEO.PA",
+  "name" : "Abeo SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAAT.PA",
+  "name" : "Azorean Aquatic Technologies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BCRA.PA",
+  "name" : "Baccarat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCOR.PA",
+  "name" : "Biocorp Production SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAPLI.PA",
+  "name" : "Capelli SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCMB.PA",
+  "name" : "Compagnie du Mont Blanc SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ZEN.BR",
+  "name" : "Immo Zenobe Gramme NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GEA.PA",
+  "name" : "Gea Grenobloise Electronique Automatisme SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GLINT.LS",
+  "name" : "Glintt Global Intelligent Technologies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INFE.PA",
+  "name" : "Cie Industrielle Financiere Entreprise SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "JBOG.PA",
+  "name" : "Jacques Bogart SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MUN.PA",
+  "name" : "Micropole SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NOVI.AS",
+  "name" : "Novisource NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSIP.PA",
+  "name" : "Si Participations SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSIM.PA",
+  "name" : "Simo International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SNOW.AS",
+  "name" : "SnowWorld NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOFT.BR",
+  "name" : "Softimat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HO.PA",
+  "name" : "Thales SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALWEB.PA",
+  "name" : "Weborama SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSTR.PA",
+  "name" : "Streit Mecanique SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLABO.PA",
+  "name" : "Toutabo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BAIN.PA",
+  "name" : "Societe Anonyme Des Bains De Mer Et Du Cercle Des Etrangers A Monaco SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDAM.PA",
+  "name" : "Damaris SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATC.AS",
+  "name" : "Altice Europe NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SEV.PA",
+  "name" : "Suez SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADVIC.PA",
+  "name" : "Advicenne SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AF.PA",
+  "name" : "Air France KLM SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCUR.PA",
+  "name" : "Arcure SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRTO.PA",
+  "name" : "Caisse Reg Cred Agric Mut Tourain Poitou",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACA.PA",
+  "name" : "Credit Agricole SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SX.PA",
+  "name" : "CS Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GKTX.PA",
+  "name" : "GenKyoTex SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGLD.PA",
+  "name" : "Gold by Gold SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KEY.PA",
+  "name" : "Keyrus SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KPN.AS",
+  "name" : "Koninklijke KPN NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLV4S.PA",
+  "name" : "Les Verandas 4 Saisons SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MEDCL.PA",
+  "name" : "Medincell SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NOS.LS",
+  "name" : "NOS SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PAR.PA",
+  "name" : "Paris Realty Fund SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPAT.PA",
+  "name" : "Plant Advanced Technologies PAT SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PUB.PA",
+  "name" : "Publicis Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SELER.PA",
+  "name" : "Selectirente SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SHUR.BR",
+  "name" : "Shurgard Self Storage SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SONC.LS",
+  "name" : "Sonae Capital SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTBG.PA",
+  "name" : "Blockchain Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NVG.LS",
+  "name" : "Navigator Company SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALAVY.PA",
+  "name" : "Audiovalley SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CBR.PA",
+  "name" : "ROBERTET CDV 87",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FR.PA",
+  "name" : "Valeo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SAMS.PA",
+  "name" : "Samse SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALAMG.PA",
+  "name" : "Auplata Mining Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTUV.PA",
+  "name" : "Bio-UV Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CGR.PA",
+  "name" : "CeGeREAL SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ODET.PA",
+  "name" : "Financiere de l'Odet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLOB.BR",
+  "name" : "Floridienne SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GENX.PA",
+  "name" : "Generix Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGRC.PA",
+  "name" : "Groupe Carnivor SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHEO.PA",
+  "name" : "H2O Innovation Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHYG.PA",
+  "name" : "Hybrigenics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "STAL.PA",
+  "name" : "Installux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INTO.BR",
+  "name" : "Intervest Offices & Warehouses NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMGI.PA",
+  "name" : "Mg International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OREGE.PA",
+  "name" : "Orege SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PVL.PA",
+  "name" : "Plastiques du Val de Loire SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RBO.PA",
+  "name" : "Roche Bobois SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SRP.PA",
+  "name" : "SRP Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SMTPC.PA",
+  "name" : "Societe Marseillaise du Tunnel Prado Carenage SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SON.LS",
+  "name" : "Sonae SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTRI.PA",
+  "name" : "Trilogiq SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLTRC.PA",
+  "name" : "Les Trois Chenes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PATBS.PA",
+  "name" : "PLANT ADVANCED BS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LEBL.PA",
+  "name" : "Fonciere 7 Investissement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTRA.PA",
+  "name" : "Traqueur SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VIRP.PA",
+  "name" : "Virbac SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RIN.PA",
+  "name" : "Vilmorin & Cie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMIL.PA",
+  "name" : "1000mercis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AMG.AS",
+  "name" : "AMG Advanced Metallurgical Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COV.PA",
+  "name" : "Covivio SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DGM.PA",
+  "name" : "Diagnostic Medical Systems SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDUB.PA",
+  "name" : "Encres Dubuit SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EO.PA",
+  "name" : "Faurecia SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFIL.PA",
+  "name" : "Filae SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGEV.PA",
+  "name" : "Gevelot SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GTT.PA",
+  "name" : "Gaztransport et Technigaz SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALINT.PA",
+  "name" : "Integragen SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PARRO.PA",
+  "name" : "Parrot SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PROX.BR",
+  "name" : "Proximus NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "QRF.BR",
+  "name" : "QRF Comm. VA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SCR.PA",
+  "name" : "Scor SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GIRO.PA",
+  "name" : "Signaux Girod SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LIGHT.AS",
+  "name" : "Signify NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SWP.PA",
+  "name" : "Sword Group SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLUMH.PA",
+  "name" : "Union Metallurgique de la Haute Seine SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SDT.PA",
+  "name" : "Visiodent SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WDP.BR",
+  "name" : "Warehouses de Pauw Comm VA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ZENT.BR",
+  "name" : "Zenitel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OLGNV.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FP.PA",
+  "name" : "Total SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VERBS.PA",
+  "name" : "VERGNET BSA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SCT.LS",
+  "name" : "Toyota Caetano Portugal SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RUI.PA",
+  "name" : "Rubis SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AWOX.PA",
+  "name" : "Awox SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FBEL.PA",
+  "name" : "BEL SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BLEE.PA",
+  "name" : "Bleecker SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDEV.PA",
+  "name" : "Devernois SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEAS.PA",
+  "name" : "Easson Holdings Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MC.PA",
+  "name" : "LVMH Moet Hennessy Louis Vuitton SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFBA.PA",
+  "name" : "Fashion B Air SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GBLB.BR",
+  "name" : "Groep Brussel Lambert NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KBCA.BR",
+  "name" : "KBC Ancora BV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MOP.BR",
+  "name" : "Palmboomen Cultuur Maatschappij Mopoli Palmeraies De Mopoli NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SEFER.PA",
+  "name" : "Sergeferrari Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SAVE.PA",
+  "name" : "Savencia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FATBS.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TOM2.AS",
+  "name" : "TomTom NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCLP.PA",
+  "name" : "Colipays Reunion SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GV.PA",
+  "name" : "Genomic Vision SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "JMT.LS",
+  "name" : "Jeronimo Martins SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ELEC.PA",
+  "name" : "Electricite de Strasbourg SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IMMOU.BR",
+  "name" : "Immo Moury Sicaf Immobiliere Publique de Droit Belge SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UFF.PA",
+  "name" : "Union Financiere de France Banque SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PAY.BR",
+  "name" : "Payton Planar Magnetics Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SO.PA",
+  "name" : "Somfy SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EOS.PA",
+  "name" : "Acteos SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADVI.PA",
+  "name" : "Advini SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BRNL.AS",
+  "name" : "Brunel International NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CGG.PA",
+  "name" : "CGG SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRSU.PA",
+  "name" : "Caisse Region Credit Agric Mutuel Sudra",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLERO.PA",
+  "name" : "Euroland Corporate SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GPE.PA",
+  "name" : "Groupe Pizzorno Environnement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INGA.AS",
+  "name" : "ING Groep NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MBWS.PA",
+  "name" : "Marie Brizard Wine and Spirits SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALKER.PA",
+  "name" : "Media-Maker SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SCHD.BR",
+  "name" : "Scheerders Van Kerchove's Verenigde Fabrieken NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SW.PA",
+  "name" : "Sodexo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLWEA.PA",
+  "name" : "Weaccess Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "XIL.PA",
+  "name" : "Xilam Animation SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRLO.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel Loire Haute-Loire",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CIV.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel d'Ille-et-Vilaine SC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BOLS.AS",
+  "name" : "Lucas Bols Amsterdam BV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATI.PA",
+  "name" : "Actia Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LOUP.PA",
+  "name" : "Societe LDC SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLNAT.PA",
+  "name" : "Nature et Logis SARL",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CNV.PA",
+  "name" : "Cnova NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CCEP.AS",
+  "name" : "Coca-Cola European Partners PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEZV.PA",
+  "name" : "Easyvista SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LPE.PA",
+  "name" : "Laurent Perrier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MRK.PA",
+  "name" : "Merck & Co Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALODI.PA",
+  "name" : "O2I SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TVRB.PA",
+  "name" : "Televerbier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TKO.PA",
+  "name" : "Tikehau Capital SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ECP.PA",
+  "name" : "Europacorp SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "THEP.PA",
+  "name" : "Thermador Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "2CRSI.PA",
+  "name" : "2Crsi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BCP.LS",
+  "name" : "Banco Comercial Portugues SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAF.PA",
+  "name" : "Caisse regionale de Credit Agricole Mutuel de Paris et d Ile de France",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DSY.PA",
+  "name" : "Dassault Systemes SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DBV.PA",
+  "name" : "DBV Technologies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DGB.AS",
+  "name" : "DGB Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DIEG.BR",
+  "name" : "Diegem Kennedy",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLETA.PA",
+  "name" : "Metalliance SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TFI.PA",
+  "name" : "Television Francaise 1 SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALWEC.PA",
+  "name" : "We. Connect SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSBT.PA",
+  "name" : "Scientific Brain Training SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALANT.PA",
+  "name" : "Antevenio SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGIL.PA",
+  "name" : "Groupe Guillin SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VALUE.AS",
+  "name" : "Value8 NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARYN.SW",
+  "name" : "Aryzta AG",
+  "currency" : "CHF",
+  "stockExchange" : "Swiss",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLUTP.PA",
+  "name" : "Un Toit Pour Toi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATEME.PA",
+  "name" : "Ateme SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPRI.PA",
+  "name" : "Prismaflex International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TBIRD.AS",
+  "name" : "Thunderbird Resorts Inc",
+  "currency" : "USD",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSTM.PA",
+  "name" : "Steam France SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABIO.PA",
+  "name" : "Albioma SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SUCR.BR",
+  "name" : "Sucrerie et Raffinerie de l'Afrique Centrale NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PABSB.PA",
+  "name" : "PARROT BSA 2",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TIPI.PA",
+  "name" : "Tipiak SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EDF.PA",
+  "name" : "Electricite de France SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOP.PA",
+  "name" : "Sopra Steria Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IPN.PA",
+  "name" : "Ipsen SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "STF.PA",
+  "name" : "Stef SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCOG.PA",
+  "name" : "Cogra Quarante Huit SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INEA.PA",
+  "name" : "Fonciere Inea SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RENE.LS",
+  "name" : "Ren Redes Energeticas Nacionais SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHRG.PA",
+  "name" : "Herige SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMND.PA",
+  "name" : "Montagne Et Neige Developpement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SEM.LS",
+  "name" : "Semapa Sociedade de Investimento e Gestao SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASML.AS",
+  "name" : "ASML Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TFF.PA",
+  "name" : "Tonnellerie Francois Freres SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BGHL.AS",
+  "name" : "Boussard and Gavaudan Holding Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALAGR.PA",
+  "name" : "Agrogeneration SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TRI.PA",
+  "name" : "Trigano SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CFI.PA",
+  "name" : "CFI-Compagnie Fonciere Internationale SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TAYN.PA",
+  "name" : "Societe de Tayninh SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NBA.LS",
+  "name" : "Novabase SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VAF.LS",
+  "name" : "VAA Vista Alegre Atlantis SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALENT.PA",
+  "name" : "Entreparticuliers.com SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "STNT.PA",
+  "name" : "Stentys SA",
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ING.PA",
+  "name" : "Ingenico Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LYS.PA",
+  "name" : "Lysogene SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HOMI.BR",
+  "name" : "Home Invest Belgium SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EC.PA",
+  "name" : "Total Gabon SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LFDE.PA",
+  "name" : "La Francaise de l Energie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KARD.AS",
+  "name" : "Kardan NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLONE.PA",
+  "name" : "Body One Lingerie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SPEL.PA",
+  "name" : "Fonciere Volta SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLWEY.PA",
+  "name" : "Weya SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALWIT.PA",
+  "name" : "Witbe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SLBEN.LS",
+  "name" : "Sport Lisboa e Benfica Futebol SAD",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVIA.PA",
+  "name" : "Vialife SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UNA.AS",
+  "name" : "Unilever NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARTO.PA",
+  "name" : "Societe Industrielle et Financiere de l'Artois SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SESL.PA",
+  "name" : "Ses Imagotag SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DPT.PA",
+  "name" : "St Dupont SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COLR.BR",
+  "name" : "Etablissementen Franz Colruyt NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSUM.PA",
+  "name" : "Sumo Resources PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLTRA.PA",
+  "name" : "Compagnie Des Tramways De Rouen SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDV.PA",
+  "name" : "Alliance Developpement Capital SIIC SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGEP.PA",
+  "name" : "Global Ecopower SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMIB.PA",
+  "name" : "Metrics in Balance NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VEON.AS",
+  "name" : "VEON Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VRAP.PA",
+  "name" : "Vranken Pommery Monopole SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SPI.PA",
+  "name" : "Spir Communication SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTEV.PA",
+  "name" : "Envea SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IFF.PA",
+  "name" : "International Flavors & Fragrances Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHCF.PA",
+  "name" : "Home Concept France SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PROL.PA",
+  "name" : "Prologue SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DIG.PA",
+  "name" : "Evergreen SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MBWBT.PA",
+  "name" : "MBWS BSA 2022",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORAP.PA",
+  "name" : "Orapi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BALYO.PA",
+  "name" : "Balyo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LHN.PA",
+  "name" : "LafargeHolcim Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPCI.PA",
+  "name" : "Primecity Investment Plc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ECONB.BR",
+  "name" : "Econocom Group SE",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATA.PA",
+  "name" : "Atari SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSRP.PA",
+  "name" : "Speed Rabbit Pizza SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVIV.PA",
+  "name" : "Visiativ SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSEN.PA",
+  "name" : "Sensorion SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SMAR.BR",
+  "name" : "Smartphoto Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDEL.PA",
+  "name" : "Delfingen Industry SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SBMO.AS",
+  "name" : "SBM Offshore NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AKE.PA",
+  "name" : "Arkema SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSER.PA",
+  "name" : "Serma Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOFR.PA",
+  "name" : "Societe Francaise de Gestion et d'Investissement SOFRAGI SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MBWSZ.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALIVA.PA",
+  "name" : "Ivalis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVEL.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMBG.PA",
+  "name" : "MyBest Group SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CFN.LS",
+  "name" : "Cofina SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SLIGR.AS",
+  "name" : "Sligro Food Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPLA.PA",
+  "name" : "Planet Media SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLEXD.LS",
+  "name" : "Flexdeal SIMFE SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SPA.BR",
+  "name" : "Societe de Services de Participations de Direction et d'Elaboration SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "URW.AS",
+  "name" : "Unibail-Rodamco-Westfield SE",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VIL.PA",
+  "name" : "Viel et Compagnie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLZAM.PA",
+  "name" : "ZCCM Investments Holdings PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FCP.LS",
+  "name" : "Futebol Clube do Porto Futebol SAD",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CNF.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel de Nord de France SC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TOU.PA",
+  "name" : "Toupargel Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNOV.PA",
+  "name" : "Novacyt SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TDSA.LS",
+  "name" : "Teixeira Duarte SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VWA.BR",
+  "name" : "Volkswagen AG",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSCH.PA",
+  "name" : "Schobrunn Paris SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INPHI.AS",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDNE.PA",
+  "name" : "Dont Nod Entertainment SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TWEKA.AS",
+  "name" : "TKH Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CO.PA",
+  "name" : "Casino Guichard Perrachon SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TVLY.PA",
+  "name" : "Tivoly SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SLB.PA",
+  "name" : "Schlumberger NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PSMP.BR",
+  "name" : "ProSiebenSat.1 Media SE",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COUR.PA",
+  "name" : "Courtois SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLVIS.PA",
+  "name" : "Visio Nerf SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GREV.PA",
+  "name" : "Musee Grevin SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PHARM.AS",
+  "name" : "Pharming Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TIE.AS",
+  "name" : "TIE Kinetix NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VVY.AS",
+  "name" : "Vivoryon Therapeutics AG",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WES.AS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOA.PA",
+  "name" : "Sodifrance SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WAVE.PA",
+  "name" : "Wavestone SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SEQUA.BR",
+  "name" : "Sequana Medical NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PREVA.AS",
+  "name" : "Value8 N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TEP.PA",
+  "name" : "Teleperformance SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UBI.PA",
+  "name" : "Ubisoft Entertainment SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TERB.BR",
+  "name" : "Ter Beke NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVAL.PA",
+  "name" : "Valbiotis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIPO.PA",
+  "name" : "Iposa Properties SOCIMI SA",
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVER.PA",
+  "name" : "Vergnet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTER.PA",
+  "name" : "Theradiag SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WEB.BR",
+  "name" : "Warehouses Estates Belgium SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BOKA.AS",
+  "name" : "Koninklijke Boskalis Westminster NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DIM.PA",
+  "name" : "Sartorius Stedim Biotech SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALKKO.PA",
+  "name" : "Kko International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLAN.PA",
+  "name" : "Lanson BCC SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OSE.PA",
+  "name" : "Ose Immunotherapeutics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RAND.AS",
+  "name" : "Randstad NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOLB.BR",
+  "name" : "Solvay SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HAMO.BR",
+  "name" : "Hamon & Cie International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RDSA.AS",
+  "name" : "Royal Dutch Shell PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCMI.PA",
+  "name" : "Soc Conseil en Externalisation en Market SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLY.PA",
+  "name" : "Societe Fonciere Lyonnaise SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLOLM.PA",
+  "name" : "Olmix SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLTBM.PA",
+  "name" : "Les Toques Blanches du Monde SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAU.PA",
+  "name" : "Etablissements Maurel et Prom SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALQGC.PA",
+  "name" : "Quantum Genomics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLACT.PA",
+  "name" : "Activium Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLROU.PA",
+  "name" : "Rousselet Centrifugation SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLWRC.PA",
+  "name" : "Whiteni Rcajal SOCIMI SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TINC.BR",
+  "name" : "Tinc Comm VA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TNET.BR",
+  "name" : "Telenet Group Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SQI.PA",
+  "name" : "Sqli SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VETO.PA",
+  "name" : "Vetoquinol SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TEXF.BR",
+  "name" : "Texaf SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCOU.PA",
+  "name" : "Courbet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SEC.PA",
+  "name" : "Soditech SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOG.PA",
+  "name" : "Sogeclair SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SDG.PA",
+  "name" : "Synergie SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMER.PA",
+  "name" : "Sapmer SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VIV.PA",
+  "name" : "Vivendi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMRE.PA",
+  "name" : "Mre-Iii-Proyecto Cinco Socimi SA",
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UNI.BR",
+  "name" : "U&I Learning NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSAS.PA",
+  "name" : "Stradim Espace Finance SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VIO.BR",
+  "name" : "Viohalco SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALS30.PA",
+  "name" : "Solutions 30 SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CIB.PA",
+  "name" : "Cibox Inter@ctive SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRAV.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel Atlantique Vendee SC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSEQ.PA",
+  "name" : "Sequa Petroleum NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLARI.PA",
+  "name" : "Silkan RT SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SIOE.BR",
+  "name" : "Sioen Industries NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VAN.BR",
+  "name" : "Van de Velde NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SNG.LS",
+  "name" : "Sonagi, S.G.P.S., S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LFVE.PA",
+  "name" : "La Fonciere Verte SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOF.BR",
+  "name" : "Sofina SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TCH.PA",
+  "name" : "Technicolor SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BSD.PA",
+  "name" : "Bourse Direct Et Bourse Discount SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLHB.PA",
+  "name" : "Les Hotels Baverez SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VCT.PA",
+  "name" : "Vicat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALWED.PA",
+  "name" : "Wedia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "STM.PA",
+  "name" : "STMicroelectronics N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VLA.PA",
+  "name" : "Valneva SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TESB.BR",
+  "name" : "Tessenderlo Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TIT.BR",
+  "name" : "Telecom Italia S.p.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VALE3.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VIE.PA",
+  "name" : "Veolia Environnement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AGTA.PA",
+  "name" : "Agta Record AG",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSML.PA",
+  "name" : "Smalto SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WKL.AS",
+  "name" : "Wolters Kluwer NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALUVI.PA",
+  "name" : "UV Germi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNSE.PA",
+  "name" : "NSE SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TNG.PA",
+  "name" : "Transgene SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VASTB.BR",
+  "name" : "Vastned Retail Belgium SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SIA.BR",
+  "name" : "Siemens Aktiengesellschaft",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FTI.PA",
+  "name" : "TechnipFMC PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TISN.BR",
+  "name" : "Tiscali Spa",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVMG.PA",
+  "name" : "Visiomed Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UMI.BR",
+  "name" : "Umicore SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SIP.BR",
+  "name" : "Sipef NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VWAP.BR",
+  "name" : "Volkswagen AG",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KVW.AS",
+  "name" : "Royal VolkerWessels nv",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MT.AS",
+  "name" : "ArcelorMittal SA",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SLCO.PA",
+  "name" : "Selcodis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ML350.PA",
+  "name" : "As SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMII.PA",
+  "name" : "M2i SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALWOO.PA",
+  "name" : "Safwood SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VLAP.PA",
+  "name" : "Valneva SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "XIOR.BR",
+  "name" : "Xior Student Housing NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVDM.PA",
+  "name" : "Voyageurs du Monde SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VMGBS.PA",
+  "name" : "VISIOMED BSA2018-1",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALUCR.PA",
+  "name" : "Ucar SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VLTSA.PA",
+  "name" : "Voltalia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VDLO.PA",
+  "name" : "Videlio SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BOL.PA",
+  "name" : "Bollore SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BESI.AS",
+  "name" : "BE Semiconductor Industries NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALERS.PA",
+  "name" : "Eurobio Scientific SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TFA.BR",
+  "name" : "Telef��nica, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "STRN.AS",
+  "name" : "Stern Groep NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AKZA.AS",
+  "name" : "Akzo Nobel NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDYH.PA",
+  "name" : "Design Your Home Holding AB (publ)",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GIMB.BR",
+  "name" : "Gimv Investeringsmaatschappij Voor Vlanderen NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COM.PA",
+  "name" : "Cnim Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCOI.PA",
+  "name" : "Coil NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CMO.PA",
+  "name" : "Credit Agricole du Morbihan SC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORANW.AS",
+  "name" : "Oranjewoud NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AGFB.BR",
+  "name" : "AGFA Gevaert NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABNX.PA",
+  "name" : "Abionyx Pharma SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SCP.LS",
+  "name" : "Sporting Clube de Portugal Futebol SAD",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RCO.PA",
+  "name" : "Remy Cointreau SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVU.PA",
+  "name" : "Vente-Unique.Com SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTXC.PA",
+  "name" : "Txcom SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FINM.PA",
+  "name" : "Financiere Marjos SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FFARM.AS",
+  "name" : "ForFarmers NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEUP.PA",
+  "name" : "Europlasma SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FATL.PA",
+  "name" : "Fonciere Atland SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEAC.PA",
+  "name" : "Ediliziacrobatica SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DNX.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALINN.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LLY.PA",
+  "name" : "Eli Lilly and Company",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CHTEX.BR",
+  "name" : "Chevron Corporation",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PSAT.PA",
+  "name" : "Passat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EIFF.PA",
+  "name" : "Societe de la Tour Eiffel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMTH.PA",
+  "name" : "Methorios Capital SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ICT.AS",
+  "name" : "ICT Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEUA.PA",
+  "name" : "Eurasia Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BERR.PA",
+  "name" : "Financiere Immobiliere Etang Berre Medit SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BON.PA",
+  "name" : "Bonduelle SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCEC.PA",
+  "name" : "Cecurity.com SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GDS.PA",
+  "name" : "Ramsay Generale de Sante SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EPS.PA",
+  "name" : "Engie Eps SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PRBS1.PA",
+  "name" : "PROLOG BSAAR20",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRI.PA",
+  "name" : "Chargeurs SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DSC1W.AS",
+  "name" : "DUTCH STAR C WAR",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ENGI.PA",
+  "name" : "Engie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GLOG.BR",
+  "name" : "Global Graphics PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CLNV.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FTRN.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VERIZ.BR",
+  "name" : "Verizon Communications Inc.",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DTEL.BR",
+  "name" : "Deutsche Telekom AG",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NSE.AS",
+  "name" : "New Sources Energy NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ENGB.BR",
+  "name" : "Rosier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGAI.PA",
+  "name" : "Grande Armee Investissement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IEX.AS",
+  "name" : "IEX Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AREIT.PA",
+  "name" : "Altareit SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COFA.PA",
+  "name" : "Coface SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADP.PA",
+  "name" : "Aeroports de Paris SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MOUR.BR",
+  "name" : "Moury Construct SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNXT.PA",
+  "name" : "Nextedia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAGA.PA",
+  "name" : "Agartha Real Estate Socimi SA",
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CLA.PA",
+  "name" : "Claranova SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RBT.PA",
+  "name" : "Robertet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BEVER.AS",
+  "name" : "Bever Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OFP.PA",
+  "name" : "Officiis Properties SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAKBS.PA",
+  "name" : "MAKHEIA GROUP BSA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KIN.BR",
+  "name" : "Kinepolis Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACKB.BR",
+  "name" : "Ackermans & Van Haaren NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDIG.PA",
+  "name" : "Digitech",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GROWN.BR",
+  "name" : "Growners SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PIX.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLQP.PA",
+  "name" : "Quadpack Industries, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GAUBS.PA",
+  "name" : "GAUSSIN BSAR",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BAR.BR",
+  "name" : "Barco NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMUT.PA",
+  "name" : "SA Mutualize Corporation",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFPC.PA",
+  "name" : "Fountaine Pajot SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EURBT.PA",
+  "name" : "EUROPLASMA BSB",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTLX.PA",
+  "name" : "Toolux Sanding SA",
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GTBP.PA",
+  "name" : "GT Biopharma Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BINCK.AS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SCB.LS",
+  "name" : "Sporting Clube de Braga - Futebol, SAD",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "QGCBT.PA",
+  "name" : "QUANTGENBSA27JAN20",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GALIM.PA",
+  "name" : "Galimmo SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CONN.BR",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HIPAY.PA",
+  "name" : "Hipay Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TOUP.PA",
+  "name" : "Touax Sgtr Cite Sgt Cmte Taf Slm Touage Investissements Reunies SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MERY.PA",
+  "name" : "Mercialys SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INAC.LS",
+  "name" : "Inapa - Investimentos, Participacoes e Gestao, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCJ.PA",
+  "name" : "Crossject SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALREW.PA",
+  "name" : "Reworld Media SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SFBS.PA",
+  "name" : "Sofibus Patrimoine SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MTU.PA",
+  "name" : "Manitou BF SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORA.PA",
+  "name" : "Orange SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VMGBW.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOI.PA",
+  "name" : "Soitec SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGAU.PA",
+  "name" : "Gaussin SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFST.PA",
+  "name" : "TechnoFirst SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PIC.BR",
+  "name" : "Picanol NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INA.LS",
+  "name" : "Inapa Investimentos Participacoes e Gestao SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IMMO.BR",
+  "name" : "Compagnie Immobiliere de Belgique SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASP.PA",
+  "name" : "AST Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSPW.PA",
+  "name" : "Spineway SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HOLCO.AS",
+  "name" : "Holland Colours NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALALO.PA",
+  "name" : "Acheter Louer Fr SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ENX.PA",
+  "name" : "Euronext NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABI.BR",
+  "name" : "Anheuser Busch Inbev NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEX.PA",
+  "name" : "Nexans SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WOLE.BR",
+  "name" : "L'Investissement Foncier Woluwe Extension SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "XPO.PA",
+  "name" : "Xpo Logistics Europe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLIX.PA",
+  "name" : "Wallix Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSIL.PA",
+  "name" : "Silc SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAN.PA",
+  "name" : "Manutan International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMMC.PA",
+  "name" : "Multimicrocloud SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LAT.PA",
+  "name" : "Latecoere SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHIT.PA",
+  "name" : "Hitechpros SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EXE.PA",
+  "name" : "Exel Industries SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AALB.AS",
+  "name" : "Aalberts NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BLC.PA",
+  "name" : "Bastide le Confort Medical SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RX.PA",
+  "name" : "Recylex SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AMEBA.PA",
+  "name" : "Amoeba SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FAUV.PA",
+  "name" : "Etablissements Fauvet Girel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DRVBS.PA",
+  "name" : "DRONE VOLT BS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MALT.PA",
+  "name" : "Malteries Franco Belges SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALIMP.PA",
+  "name" : "Implanet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEU.BR",
+  "name" : "Cie Financiere de Neufcour SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHMC.PA",
+  "name" : "Soc Immobiliere et Exploit Hotel Majesti SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IGE.PA",
+  "name" : "IGE + XAO SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NIBC.AS",
+  "name" : "NIBC Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCLS.PA",
+  "name" : "Cellectis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMAT.PA",
+  "name" : "Societe Ivoirienne de Manutention et de Transit SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BPOST.BR",
+  "name" : "Bpost SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCVG.PA",
+  "name" : "Chemin Fer Tramways Var Gard SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIMP.PA",
+  "name" : "Imprimerie Chirat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAAH.PA",
+  "name" : "Amatheon Agri Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NSI.AS",
+  "name" : "NSI NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BNB.BR",
+  "name" : "Banque Nationale De Belgique SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GID.PA",
+  "name" : "Egide SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDIE.PA",
+  "name" : "Dietswell SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RXL.PA",
+  "name" : "Rexel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GALP.LS",
+  "name" : "Galp Energia SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CFEB.BR",
+  "name" : "Aannemingsmaatschappij Cfe NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GNRO.PA",
+  "name" : "Geneuro SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DPA.AS",
+  "name" : "DPA Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GJAJ.PA",
+  "name" : "Groupe JAJ SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CBDG.PA",
+  "name" : "Compagnie du Cambodge SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLFIR.PA",
+  "name" : "Firstcaution SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IPR.LS",
+  "name" : "Impresa Sociedade Gestora de Participacoes Sociais SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCOR.PA",
+  "name" : "Corep Lighting SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HEIA.AS",
+  "name" : "Heineken NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LIN.PA",
+  "name" : "Linedata Services SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLARD.PA",
+  "name" : "Les Motocycles Ardoin Saint Amand et Cie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UG.PA",
+  "name" : "Peugeot SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PPLA.AS",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INTER.AS",
+  "name" : "Intertrust NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCRB.PA",
+  "name" : "Carbios SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPRE.PA",
+  "name" : "Predilife SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EOSI.PA",
+  "name" : "EOS Imaging SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GRVO.PA",
+  "name" : "Graines Voltz SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEAV.PA",
+  "name" : "EAVS Groupe Equipements Audiovisuels et Systemes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SACI.PA",
+  "name" : "Fiducial Office Solutions SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPHW.PA",
+  "name" : "Phone Web SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HDG.AS",
+  "name" : "Hunter Douglas NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AC.PA",
+  "name" : "Accor SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPER.PA",
+  "name" : "La Perla Fashion Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TER.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NXI.PA",
+  "name" : "Nexity SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ERF.PA",
+  "name" : "Eurofins Scientific SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DIE.BR",
+  "name" : "D'Ieteren SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BUDBS.PA",
+  "name" : "MINT BS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FNAC.PA",
+  "name" : "Fnac Darty SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FOOTL.BR",
+  "name" : null,
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCAR.PA",
+  "name" : "Carmat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PPLAA.AS",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALENR.PA",
+  "name" : "Entreprendre S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLNEO.PA",
+  "name" : "Neocom Multimedia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VMGBV.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VMGBT.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDOL.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ERYP.PA",
+  "name" : "Erytech Pharma SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAHC.PA",
+  "name" : "@Health SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EGL.LS",
+  "name" : "Mota Engil SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALANV.PA",
+  "name" : "Anevia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EMG.PA",
+  "name" : "Euromedis Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFOC.PA",
+  "name" : "Focus Home Interactive SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGEN.PA",
+  "name" : "Genoway SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KORI.PA",
+  "name" : "Korian SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLRAM.PA",
+  "name" : "Rapha��l Michel S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PNSB.BR",
+  "name" : "Personalized Nursing Services Soci��t�� Anonyme",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COMAE.LS",
+  "name" : "COMPTA - Equipamentos e Servicos de Informatica, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CPA.LS",
+  "name" : "COPAM - Companhia Portuguesa de Amidos, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VMGBX.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEO.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ML.PA",
+  "name" : "Compagnie Generale des Etablissements Michelin SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EBPF.PA",
+  "name" : "Financiere et Immobiliere de l'Etang de Berre et de la Mediterranee S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IVA.PA",
+  "name" : "Inventiva SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TUB.BR",
+  "name" : "Financiere de Tubize SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VRNL.PA",
+  "name" : "Verneuil Finance SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SABE.PA",
+  "name" : "Saint Jean Groupe",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHIN.PA",
+  "name" : "Societe Hoteliere et Immobiliere de Nice SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PUBBS.PA",
+  "name" : "PUBLICIS BSA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACOMO.AS",
+  "name" : "Amsterdam Commodities NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FUR.AS",
+  "name" : "Fugro NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COBH.BR",
+  "name" : "Brouwerij Handelsmaatschappij NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNSC.PA",
+  "name" : "NSC Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MELE.BR",
+  "name" : "Melexis NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHBB.PA",
+  "name" : "Financiere Hoche Bains les Bains SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCHE.PA",
+  "name" : "Cheops Technology France SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DEDAL.PA",
+  "name" : "Dedalus France S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGEQ.PA",
+  "name" : "Gentlemen's Equity SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGTR.PA",
+  "name" : "Groupe Tera SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ESON.LS",
+  "name" : "Estoril Sol SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLFDV.PA",
+  "name" : "Franck Deville SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "APAM.AS",
+  "name" : "Aperam SA",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDBS.PA",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMLB.PA",
+  "name" : "Miliboo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HF.PA",
+  "name" : "HF Company SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARCAD.AS",
+  "name" : "Arcadis NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LSS.PA",
+  "name" : "Lectra SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BELU.BR",
+  "name" : "Beluga NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPOU.PA",
+  "name" : "Poulaillon SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMOU.PA",
+  "name" : "Moulinvest SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AVTX.AS",
+  "name" : "Avantium NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLLOG.PA",
+  "name" : "Gestion De Inmuebles Logis Confort Sa",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MCPHY.PA",
+  "name" : "McPhy Energy SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEXTS.PA",
+  "name" : "Nextstage SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COMB.BR",
+  "name" : "Compagnie du Bois Sauvage SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDRV.PA",
+  "name" : "Drone Volt SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BBV.BR",
+  "name" : "Banco Bilbao Vizcaya Argentaria, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAT31.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel Toulouse 31 SC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAGE.LS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPSH.PA",
+  "name" : "TPSH SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MITRA.BR",
+  "name" : "Mithra Pharmaceuticals SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BEFB.BR",
+  "name" : "Befimmo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EURN.BR",
+  "name" : "Euronav NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NLFBS.PA",
+  "name" : "NEOLIFE BS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PRC.PA",
+  "name" : "Artmarket.com SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTR.LS",
+  "name" : "Altri SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEDAP.AS",
+  "name" : "Nedap NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EKI.PA",
+  "name" : "Ekinops SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEDSE.AS",
+  "name" : "MKB Nedsense NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAREL.AS",
+  "name" : "Marel hf",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OCI.AS",
+  "name" : "OCI NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BVI.PA",
+  "name" : "Bureau Veritas SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALOCA.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATE.PA",
+  "name" : "Alten SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EXAC.PA",
+  "name" : "Exacompta Clairefontaine SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GVNV.AS",
+  "name" : "Grandvision NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEBS.PA",
+  "name" : "EMOVA BS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALIMO.PA",
+  "name" : "Groupimo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEWT.BR",
+  "name" : "Newtree S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SAN.PA",
+  "name" : "Sanofi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGES.PA",
+  "name" : "Green Energy 4 Seasons",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORIA.PA",
+  "name" : "Fiducial Real Estate SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DEC.PA",
+  "name" : "JCDecaux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASY.PA",
+  "name" : "Assystem SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FGA.PA",
+  "name" : "Figeac Aero SARL",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMAI.PA",
+  "name" : "Les Maisons d'Aujourd Hui SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DBG.PA",
+  "name" : "Derichebourg SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACCEL.AS",
+  "name" : "Accell Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ILD.PA",
+  "name" : "Iliad SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SAB.BR",
+  "name" : "Societe Anonyme Belge de Constructions Aeronautiques SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALO.PA",
+  "name" : "Alstom SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GECP.PA",
+  "name" : "GECI International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSEC.PA",
+  "name" : "Securinfor Soci��t�� anonyme",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RI.PA",
+  "name" : "Pernod Ricard SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AUGR.PA",
+  "name" : "Augros Cosmetic Packaging SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCLA.PA",
+  "name" : "Clasquin SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEMV.PA",
+  "name" : "Emova Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OR.PA",
+  "name" : "L'Oreal SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALD.PA",
+  "name" : "ALD SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLE.PA",
+  "name" : "Fleury Michon SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CYBBS.PA",
+  "name" : "CYBERGUN BSA 1",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MORE.AS",
+  "name" : "Morefield Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ICAD.PA",
+  "name" : "Icade SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLALV.PA",
+  "name" : "Alveen S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EURS.PA",
+  "name" : "Fonciere Euris SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PERR.PA",
+  "name" : "Gerard Perrier Industrie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLOW.AS",
+  "name" : "Flow Traders NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ONTEX.BR",
+  "name" : "Ontex Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BLUE.PA",
+  "name" : "Blue Solutions Societe Anonyme",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COR.LS",
+  "name" : "Corticeira Amorim SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGRD.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PSH.AS",
+  "name" : "Pershing Square Holdings Ltd",
+  "currency" : "USD",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALKAL.PA",
+  "name" : "Kalray SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MMT.PA",
+  "name" : "Metropole Television SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BAMNB.AS",
+  "name" : "Koninklijke BAM Groep NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAGIS.PA",
+  "name" : "Ymagis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADYEN.AS",
+  "name" : "Adyen NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PABSA.PA",
+  "name" : "PARROT BSA 1",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BUI.PA",
+  "name" : "Barbara Bui SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBIO.PA",
+  "name" : "Biosynex SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SBT.PA",
+  "name" : "Oeneo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLITN.PA",
+  "name" : "Italy Innovazioni S.P.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SK.PA",
+  "name" : "SEB SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VMX.PA",
+  "name" : "Verimatrix SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CNP.PA",
+  "name" : "CNP Assurances SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SANTA.BR",
+  "name" : "Banco Santander, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PID.PA",
+  "name" : "Paragon Id SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SGO.PA",
+  "name" : "Compagnie de Saint Gobain SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRBN.AS",
+  "name" : "Corbion NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLUMG.PA",
+  "name" : "Umalis Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHYE.PA",
+  "name" : "Hydro Exploitations SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLJSA.PA",
+  "name" : "JSA Technology SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLOEX.PA",
+  "name" : "One Experience SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WHA.AS",
+  "name" : "Wereldhave NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALUNT.PA",
+  "name" : "Uniti SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PROAC.PA",
+  "name" : "Proactis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "UCB.BR",
+  "name" : "Ucb SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEOEN.PA",
+  "name" : "Neoen SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IBS.LS",
+  "name" : "Ibersol SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLONL.PA",
+  "name" : "Onlineformapro SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MONT.BR",
+  "name" : "Montea Comm VA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HEIO.AS",
+  "name" : "Heineken Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DLTA.PA",
+  "name" : "Delta Plus Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LBON.PA",
+  "name" : "Compagnie Lebon SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HCO.PA",
+  "name" : "High Co SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AD.AS",
+  "name" : "Koninklijke Ahold Delhaize NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FORE.PA",
+  "name" : "Forestiere Equatoriale SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHSW.PA",
+  "name" : "Horizontal Software SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CATG.PA",
+  "name" : "Catana Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EAS2P.AS",
+  "name" : "Ease2pay NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ESP.AS",
+  "name" : "Esperite NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPCV.PA",
+  "name" : "Cerinnov Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSAF.PA",
+  "name" : "Safe Orthopaedics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDR.PA",
+  "name" : "Delta Drone SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ENI.BR",
+  "name" : "Eni S.p.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AIR.PA",
+  "name" : "Airbus SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCAC.PA",
+  "name" : "Lombard et Medot SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAMB.BR",
+  "name" : "Campine NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RAL.PA",
+  "name" : "Rallye SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MDM.PA",
+  "name" : "Maisons du Monde SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPLC.PA",
+  "name" : "Placoplatre SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BANI.BR",
+  "name" : "Banimmo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IBAB.BR",
+  "name" : "Ion Beam Applications SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDSJ.PA",
+  "name" : "DELTA DRONE BSA J",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CA.PA",
+  "name" : "Carrefour SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DLT.PA",
+  "name" : "Dalet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KN.PA",
+  "name" : "Natixis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATCB.AS",
+  "name" : "Altice Europe N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SIPH.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALI2S.PA",
+  "name" : "I2S SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NTG.PA",
+  "name" : "Netgem SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPHS.PA",
+  "name" : "Pharmasimple SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALFRE.PA",
+  "name" : "Freelance.com SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAND.BR",
+  "name" : "Candela Invest SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMED.PA",
+  "name" : "Medicrea International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KER.PA",
+  "name" : "Kering SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CGGBS.PA",
+  "name" : "CGG BSA 1",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MDXH.BR",
+  "name" : "MDxHealth SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASC.BR",
+  "name" : "Ascencio SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BOI.PA",
+  "name" : "Boiron SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EN.PA",
+  "name" : "Bouygues SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPAR.PA",
+  "name" : "Groupe Parot SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLFTI.PA",
+  "name" : "France Tourisme Immobilier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "O2IBS.PA",
+  "name" : "O2I BSA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNLF.PA",
+  "name" : "Neolife SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SAF.PA",
+  "name" : "Safran SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GET.PA",
+  "name" : "Getlink SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BEAB.BR",
+  "name" : "Immo Beaulieu NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AMUN.PA",
+  "name" : "Amundi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PAT.PA",
+  "name" : "Patrimoine et Commerce SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MIKO.BR",
+  "name" : "Miko NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DECB.BR",
+  "name" : "Deceuninck NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LAF.PA",
+  "name" : "Lafuma SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGBE.PA",
+  "name" : "Global Bioenergies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALESK.PA",
+  "name" : "Esker SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGAL.PA",
+  "name" : "Galeo Concept SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MSTY.PA",
+  "name" : "Mainstay Medical Holdings plc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLVIN.PA",
+  "name" : "Fonciere Vindi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALATF.PA",
+  "name" : "Artefact SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPFX.PA",
+  "name" : "Parfex SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ELIS.PA",
+  "name" : "Elis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALM.PA",
+  "name" : "Alpha MOS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LR.PA",
+  "name" : "Legrand SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CBE.PA",
+  "name" : "Robertet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HAL.AS",
+  "name" : "HAL Trust",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BOTHE.BR",
+  "name" : "Bone Therapeutics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHVS.PA",
+  "name" : "Harvest S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EPCP.PA",
+  "name" : "EPC Groupe",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCTA.PA",
+  "name" : "CTA Holdings",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GLO.PA",
+  "name" : "GL Events SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALT.PA",
+  "name" : "Altran Technologies S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RDSB.AS",
+  "name" : "Royal Dutch Shell plc",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OLG.PA",
+  "name" : "Olympique Lyonnais Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CIS.BR",
+  "name" : "Cisco Systems, Inc.",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RF.PA",
+  "name" : "Eurazeo SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATEB.BR",
+  "name" : "Atenor SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMFI.PA",
+  "name" : "Condor Technologies NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPGO.PA",
+  "name" : "PGO Automobiles S.A.",
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHK.PA",
+  "name" : "H&K AG",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AAA.AS",
+  "name" : "AP Alternative Assets LP",
+  "currency" : "USD",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLBAT.PA",
+  "name" : "Batla Minerals SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BNP.PA",
+  "name" : "BNP Paribas SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CENER.BR",
+  "name" : "Cenergy Holdings SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALKLK.PA",
+  "name" : "Kerlink SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAP.PA",
+  "name" : "Capgemini SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CDI.PA",
+  "name" : "Christian Dior SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FNG.BR",
+  "name" : "FNG NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OIR.LS",
+  "name" : "OIR Stock LS",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABVX.PA",
+  "name" : "Abivax SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDAR.PA",
+  "name" : "Damartex SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALENE.PA",
+  "name" : "Enertime SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CARM.PA",
+  "name" : "Carmila SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALOSM.PA",
+  "name" : "Osmozis SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IAM.PA",
+  "name" : "Itissalat Al Maghrib Ste SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEMK.BR",
+  "name" : "Emakina Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLVST.PA",
+  "name" : "Televista SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LOTB.BR",
+  "name" : "Lotus Bakeries NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IBMA.BR",
+  "name" : "International Business Machines Corporation",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PARP.PA",
+  "name" : "Groupe Partouche SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPDX.PA",
+  "name" : "Piscines Desjoyaux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GLPG.AS",
+  "name" : "Galapagos NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHOT.PA",
+  "name" : "Hotelim SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALORD.PA",
+  "name" : "Ordissimo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MEMS.PA",
+  "name" : "Memscap SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPHO.PA",
+  "name" : "Photonike Capital SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CGM.PA",
+  "name" : "Cegedim SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CS.PA",
+  "name" : "AXA SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PROBT.PA",
+  "name" : "PROLOGUE BSA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMDT.PA",
+  "name" : "Median Technologies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIOC.PA",
+  "name" : "Indoor and Outdoor Communication Holding SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSIM.PA",
+  "name" : "Klimvest PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ROU.BR",
+  "name" : "Roularta Media Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "JXR.PA",
+  "name" : "Archos SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PHA.PA",
+  "name" : "Pharmagest Interactive SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAZL.PA",
+  "name" : "AZ Leasing SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ITS.PA",
+  "name" : "ITS Group",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ONXEO.PA",
+  "name" : "Onxeo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBI.PA",
+  "name" : "Gascogne SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALUCI.PA",
+  "name" : "Lucibel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HUNDP.AS",
+  "name" : "HUNTER DOUGLAS",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALOXA.PA",
+  "name" : "Oxatis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RNO.PA",
+  "name" : "Renault SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AXW.PA",
+  "name" : "Axway Software SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPBS.BR",
+  "name" : "EuroPubliDis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DSC1.AS",
+  "name" : "Dutch Star Companies ONE N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMIC.PA",
+  "name" : "Microwave Vision SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALECR.PA",
+  "name" : "Eurofins-Cerep SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCBS.PA",
+  "name" : "CROSSJECT BSA 2019",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ECMPA.AS",
+  "name" : "Eurocommercial Properties N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CEN.PA",
+  "name" : "Groupe Crit SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMET.PA",
+  "name" : "Methanor SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CDA.PA",
+  "name" : "Compagnie des Alpes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BCART.BR",
+  "name" : "Biocartis Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BEKB.BR",
+  "name" : "NV Bekaert SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAS.PA",
+  "name" : "Cast SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COGEC.PA",
+  "name" : "Cogelec SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORE.LS",
+  "name" : "Sociedade Comercial Orey Antunes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PCA.PA",
+  "name" : "Pcas SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSDN.PA",
+  "name" : "La Savonnerie de Nyons SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PRBS2.PA",
+  "name" : "PROLOGUE BSAA2021",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADOC.PA",
+  "name" : "Adocia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NRG.PA",
+  "name" : "NRJ Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATO.PA",
+  "name" : "Atos SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COH.PA",
+  "name" : "Coheris SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ESI.PA",
+  "name" : "ESI Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AM.PA",
+  "name" : "Dassault Aviation SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDBY.PA",
+  "name" : "DELTA DRONE BSA Y",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALGEM.PA",
+  "name" : "Eurogerm SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBKK.PA",
+  "name" : "Baikowski SASU",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALIMR.PA",
+  "name" : "Immersion SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CYAD.BR",
+  "name" : "Celyad Oncology",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CURE.AS",
+  "name" : "Curetis N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HEXA.PA",
+  "name" : "Hexaom SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FII.PA",
+  "name" : "Lisi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMAS.PA",
+  "name" : "Mastrad SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "POM.PA",
+  "name" : "Compagnie Plastic Omnium SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BFIT.AS",
+  "name" : "Basic Fit NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEES.PA",
+  "name" : "Energie Europe Service SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LIT.LS",
+  "name" : "Litho Formas, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MSF.BR",
+  "name" : "Microsoft Corporation",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALVGO.PA",
+  "name" : "Vogo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMUL.PA",
+  "name" : "Mulann SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NYR.BR",
+  "name" : "Nyrstar NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "REAL.BR",
+  "name" : "Realco S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INCO.BR",
+  "name" : "Intel Corporation",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IRD.PA",
+  "name" : "Groupe IRD SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DVT.PA",
+  "name" : "Devoteam SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FAGR.BR",
+  "name" : "Fagron NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPHA.PA",
+  "name" : "Pharnext SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VTX.PA",
+  "name" : "Voluntis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDTB.PA",
+  "name" : "datBIM SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GBT.PA",
+  "name" : "Guerbet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHPE.PA",
+  "name" : "Hopening SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GREEN.BR",
+  "name" : "Greenyard NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DEXB.BR",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDEI.PA",
+  "name" : "Deinove SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTVO.PA",
+  "name" : "Evolis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PPLAB.AS",
+  "name" : null,
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLTRO.PA",
+  "name" : "Troc de l Ile SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IPS.PA",
+  "name" : "Ipsos SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "XFAB.PA",
+  "name" : "X Fab Silicon Foundries EV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PWG.PA",
+  "name" : "Prodways Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LBIRD.PA",
+  "name" : "Lumibird SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NLFBU.PA",
+  "name" : "NEOLIFE BSA 2019",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EDEN.PA",
+  "name" : "Edenred SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CGGBT.PA",
+  "name" : "CGG BSA 2",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BCAM.PA",
+  "name" : "Societe Anonyme des Brasseries du Cameroun",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBOU.PA",
+  "name" : "Bourrelier Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MRB.PA",
+  "name" : "Mr. Bricolage SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KEYW.BR",
+  "name" : "Keyware Technologies NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCLI.PA",
+  "name" : "Maison Clio Blue SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLOCT.PA",
+  "name" : "Octopus Robots SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALAQU.PA",
+  "name" : "Aquila SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LTA.PA",
+  "name" : "Altamir SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VK.PA",
+  "name" : "Vallourec SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DG.PA",
+  "name" : "Vinci SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLKRI.PA",
+  "name" : "Krief Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MCBS2.PA",
+  "name" : "MECELEC BSA DEC19",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RIB.PA",
+  "name" : "Riber SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALOBR.PA",
+  "name" : "Ober SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAEM.PA",
+  "name" : "Ashler et Manson SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALROC.PA",
+  "name" : "Roctool SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CYBBT.PA",
+  "name" : "CYBERGUN BSA 2",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBLD.PA",
+  "name" : "Bilendi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMNR.PA",
+  "name" : "MNR GROUP SA",
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALQWA.PA",
+  "name" : "Qwamplify",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGDI.PA",
+  "name" : "Guandao Puer Investment Co., Ltd S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLO.PA",
+  "name" : "Groupe Flo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MOPF.BR",
+  "name" : "Mopoli Fond",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCES.PA",
+  "name" : "Cesar SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EXM.BR",
+  "name" : "Exmar NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GNFT.PA",
+  "name" : "Genfit SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AED.BR",
+  "name" : "Aedifica SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLNEI.PA",
+  "name" : "News Invest SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GBB.PA",
+  "name" : "Bourbon Corporation SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BUR.PA",
+  "name" : "Burelle SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GECBT.PA",
+  "name" : "GECI INTL BSAR A",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AMPLI.PA",
+  "name" : "Amplitude Surgical SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARGX.BR",
+  "name" : "argenx SE",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AJAX.AS",
+  "name" : "AFC Ajax NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "REINA.AS",
+  "name" : "Reinet Investments S.C.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ROTH.PA",
+  "name" : "Rothschild & Co SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "APR.PA",
+  "name" : "April SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAKBT.PA",
+  "name" : "MAKHEIA BSA 2019",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FREY.PA",
+  "name" : "Frey SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FGR.PA",
+  "name" : "Eiffage SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EURBU.PA",
+  "name" : "EUROPLASMA BSC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HYDRA.AS",
+  "name" : "Hydratec Industries NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GEN.BR",
+  "name" : "Assicurazioni Generali S.p.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PIG.PA",
+  "name" : "Haulotte Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FEN.LS",
+  "name" : "Fenalu - Gest��o de Investimentos e Participa����es, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CPINV.BR",
+  "name" : "Care Property Invest NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COFB.BR",
+  "name" : "Cofinimmo SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALINS.PA",
+  "name" : "Intrasense SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OXUR.BR",
+  "name" : "Oxurion NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALHIO.PA",
+  "name" : "Hiolle Industries SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASM.AS",
+  "name" : "ASM International NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCMG.PA",
+  "name" : "Compagnie Miniere Grecemar SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBPS.PA",
+  "name" : "Biophytis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VAC.PA",
+  "name" : "Pierre et Vacances SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCNT.PA",
+  "name" : "Consort NT SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPRX.PA",
+  "name" : "Parx Materials N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTA.PA",
+  "name" : "Altarea SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARG.PA",
+  "name" : "Argan SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMTD.PA",
+  "name" : "MTD Finance SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMEC.PA",
+  "name" : "Mecelec Composites SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ITL.PA",
+  "name" : "IT Link SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSMP.PA",
+  "name" : "Semplicemente SpA",
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BND.PA",
+  "name" : "Business & Decision SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MDWBS.PA",
+  "name" : "MEDIAWAN WAR",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RE.PA",
+  "name" : "Colas SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLVAP.PA",
+  "name" : "Kumulus Vape SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORP.PA",
+  "name" : "Orpea SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMGL.PA",
+  "name" : "Magillem Design Services SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EDI.PA",
+  "name" : "Media 6 SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BALTA.BR",
+  "name" : "Balta Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MRM.PA",
+  "name" : "MRM SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMNG.PA",
+  "name" : "Madvertise SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDBT.PA",
+  "name" : "DBT SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLFMV.LS",
+  "name" : "Farminveste, S.G.P.S., S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "JCQ.PA",
+  "name" : "Jacquet Metal Service SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AFO.PA",
+  "name" : "Afone S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CROS.PA",
+  "name" : "Crosswood SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ECASA.PA",
+  "name" : "ECA SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGML.PA",
+  "name" : "Gour Medical SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AXS.AS",
+  "name" : "Accsys Technologies PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALACT.PA",
+  "name" : "Groupe Actiplay SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLOSA.PA",
+  "name" : "O Sorbet D'amour SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CDU.LS",
+  "name" : "Conduril - Engenharia, S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAIM.PA",
+  "name" : "Air Marine SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RES.BR",
+  "name" : "Resilux NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EON.BR",
+  "name" : "E.ON SE",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NAVYA.PA",
+  "name" : "Navya SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INN.PA",
+  "name" : "Innelec Multimedia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MDW.PA",
+  "name" : "Mediawan SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PREC.PA",
+  "name" : "Precia SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BOEI.BR",
+  "name" : "The Boeing Company",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BRILL.AS",
+  "name" : "Koninklijke Brill NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BREB.BR",
+  "name" : "Brederode SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "INF.PA",
+  "name" : "Infotel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ROOD.AS",
+  "name" : "RoodMicrotec N.V.",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GAM.PA",
+  "name" : "Gaumont SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLNMA.PA",
+  "name" : "Nicolas Miguet et Associes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMAD.PA",
+  "name" : "Made SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BAMA.AS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMR.LS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLM24.LS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FOU.BR",
+  "name" : "Fountain SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPJT.PA",
+  "name" : "Poujoulat SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AURE.PA",
+  "name" : "Aurea SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADV.PA",
+  "name" : "Advenis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KAZI.PA",
+  "name" : "Orchestra Premaman SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ODBS2.PA",
+  "name" : "O2I BSA 2",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KA.AS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLDL.PA",
+  "name" : "Groupe LDLC SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BN.PA",
+  "name" : "Danone SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NK.PA",
+  "name" : "Imerys SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PNL.AS",
+  "name" : "PostNL NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLVAL.PA",
+  "name" : "Valoneo SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GFC.PA",
+  "name" : "Gecina SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLBSP.PA",
+  "name" : "Blue Shark Power System SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRLA.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel du Languedoc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALICR.PA",
+  "name" : "ICeram SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IDIP.PA",
+  "name" : "IDI SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MROIL.BR",
+  "name" : "Marathon Oil Corporation",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARDO.PA",
+  "name" : "ARDOIN ST AMAND B",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTUR.PA",
+  "name" : "Altur Investissement SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CTT.LS",
+  "name" : "CTT Correios de Portugal SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GUI.PA",
+  "name" : "Guillemot Corporation SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLOG.PA",
+  "name" : "Logic Instrument SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNOX.PA",
+  "name" : "NOXXON Pharma NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PSB.PA",
+  "name" : "PSB Industries SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALRGR.PA",
+  "name" : "Rougier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDWC.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCYB.PA",
+  "name" : "Cybergun SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLUX.BR",
+  "name" : "Fluxys Belgium NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GNE.PA",
+  "name" : "General Electric Co",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIML.PA",
+  "name" : "Imalliance SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RET.BR",
+  "name" : "Retail Estates NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FCMC.PA",
+  "name" : "Fermiere du Casino Municipal Cannes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ATRS.AS",
+  "name" : "Atrium European Real Estate Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDBL.PA",
+  "name" : "Bernard Loiseau SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DISL.BR",
+  "name" : "Immobiliere Distri Land NA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AURS.PA",
+  "name" : "Aures Technologies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BIG.PA",
+  "name" : "Bigben Interactive SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CHSR.PA",
+  "name" : "La Chausseria SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OPTI.BR",
+  "name" : "Crescent SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALDLS.PA",
+  "name" : "Dlsi SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNEV.PA",
+  "name" : "Neovacs SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FLEX.BR",
+  "name" : "FleXos Soci��t�� anonyme",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACCB.BR",
+  "name" : "Accentis NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALNN6.PA",
+  "name" : "Enensys Technologies SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAMY.PA",
+  "name" : "Mld SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ANT.BR",
+  "name" : "Antares",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALESA.PA",
+  "name" : "Ecoslops SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HOP.PA",
+  "name" : "Hopscotch Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BGHS.AS",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "POXEL.PA",
+  "name" : "Poxel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ITE.PA",
+  "name" : "Itesoft SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTHE.PA",
+  "name" : "Theraclion SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AKA.PA",
+  "name" : "Akka Technologies Se",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BEN.PA",
+  "name" : "Beneteau SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLEX.PA",
+  "name" : "Lexibook Linguistic Electronic System SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SFCA.PA",
+  "name" : "Societe Francaise de Casinos SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLTEA.PA",
+  "name" : "Team SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KKOWA.PA",
+  "name" : "KKO INT WARRANT A",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAGI.PA",
+  "name" : "AG3I SAS",
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSKN.PA",
+  "name" : "Microskin PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EEM.PA",
+  "name" : "Electricite et Eaux De Madagascar SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLLOI.PA",
+  "name" : "Locasystem International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALREA.PA",
+  "name" : "Realites SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WEHB.BR",
+  "name" : "Wereldhave Belgium Comm VA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BIM.PA",
+  "name" : "Biomerieux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CARP.PA",
+  "name" : "Carpinienne de Participations SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LUXA.BR",
+  "name" : "Immo Lux - Airport S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MCC.BR",
+  "name" : "Immo Mechelen City Center NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLFXO.PA",
+  "name" : "Finaxo Environnement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABN.AS",
+  "name" : "ABN Amro Bank NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PEP.BR",
+  "name" : "PepsiCo, Inc.",
+  "currency" : "USD",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LNA.PA",
+  "name" : "LNA Sante SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRBP2.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel Brie Picardie",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCFM.PA",
+  "name" : "CFM Indosuez Wealth SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SIGHT.PA",
+  "name" : "Gensight Biologics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PORF.AS",
+  "name" : "Koninklijke Porceleyne Fles NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NR21.PA",
+  "name" : "NR 21 SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AKOM.PA",
+  "name" : "Aerkomm Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIDS.PA",
+  "name" : "IDS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMON.PA",
+  "name" : "MonFinancier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEDR.PA",
+  "name" : "Compagnie des Eaux de Royan SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACPH.BR",
+  "name" : "Acacia Pharma Group PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCIO.PA",
+  "name" : "Groupe CIOA SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAUD.PA",
+  "name" : "Audience Labs SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SSI.PA",
+  "name" : "Supersonic Imagine SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ITXT.PA",
+  "name" : "Intexa SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TITC.BR",
+  "name" : "Titan Cement International SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLNOV.PA",
+  "name" : "Novatech Industries SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COVH.PA",
+  "name" : "Covivio Hotels SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALEVA.BR",
+  "name" : "Evadix SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALADA.PA",
+  "name" : "Ada SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BELR.BR",
+  "name" : "Belreca NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHOP.PA",
+  "name" : "Soc Participation Industrielle Miniere SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MEURV.BR",
+  "name" : "M��nchener R��ckversicherungs-Gesellschaft Aktiengesellschaft in M��nchen",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CUR.LS",
+  "name" : "Sociedade das Aguas da Curia S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EL.PA",
+  "name" : "EssilorLuxottica SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KOF.PA",
+  "name" : "Kaufman & Broad SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MAR.LS",
+  "name" : "Martifer SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLBAR.PA",
+  "name" : null,
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PHIA.AS",
+  "name" : "Koninklijke Philips NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FPG.PA",
+  "name" : "Union Technologies Informatique Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VLK.AS",
+  "name" : "Van Lanschot Kempen NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WOLS.BR",
+  "name" : "Association des Commercants du Woluwe Shoppingcenter ASBL",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "WLN.PA",
+  "name" : "Worldline SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBDM.PA",
+  "name" : "BD Multi Media SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBUD.PA",
+  "name" : "Mint SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLGEL.PA",
+  "name" : "D2l Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DGE.PA",
+  "name" : "Diageo PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ELI.BR",
+  "name" : "Elia Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPAC.PA",
+  "name" : "Pacte Novation SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SU.PA",
+  "name" : "Schneider Electric SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AGN.AS",
+  "name" : "Aegon NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SONI.LS",
+  "name" : "Sonae Industria Sgps SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TKTT.PA",
+  "name" : "Tarkett SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTHX.PA",
+  "name" : "Theranexus SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BBED.AS",
+  "name" : "Beter Bed Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEDS.PA",
+  "name" : "Editions du Signe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ECT.AS",
+  "name" : "Eurocastle Investment Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FOAF.PA",
+  "name" : "Compagnie Financiere de l'Afrique de l'Ouest Africain SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALIDS.PA",
+  "name" : "Idsud SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIPP.PA",
+  "name" : "Immobiliere Parisienne de la Perle et des Pierres Precieuses SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KBC.BR",
+  "name" : "KBC Groep NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LACR.PA",
+  "name" : "Lacroix Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LEAS.BR",
+  "name" : "Leasinvest Real Estate Comm VA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLLAB.PA",
+  "name" : "Media Lab SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AND.AS",
+  "name" : "AND International Publishers NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CAFO.PA",
+  "name" : "Cafom SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FPN.PA",
+  "name" : "Fonciere Paris Nord SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LVIDE.AS",
+  "name" : "Lavide Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPHY.PA",
+  "name" : "Ales Groupe SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MKEA.PA",
+  "name" : "Mauna Kea Technologies SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CBSM.PA",
+  "name" : "Soc Centrale Bois Scieries Manche SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SPIE.PA",
+  "name" : "Spie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTTI.PA",
+  "name" : "Travel Technology Interactive SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VASTN.AS",
+  "name" : "Vastned Retail NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NEWAY.AS",
+  "name" : "Neways Electronics International NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ORDI.AS",
+  "name" : "Ordina NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "QFG.BR",
+  "name" : "Quest for Growth NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSEI.PA",
+  "name" : "Societa Editoriale Il Fatto SpA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABCA.PA",
+  "name" : "ABC Arbitrage SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BAS.BR",
+  "name" : "Basilix NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CTAC.AS",
+  "name" : "Ctac NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "METEX.PA",
+  "name" : "Metabolic Explorer SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SIFG.AS",
+  "name" : "Sif Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SII.PA",
+  "name" : "Societe Pour l Informatique Industrielle SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMDG.PA",
+  "name" : "Mgi Digital Technology SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SFPI.PA",
+  "name" : "Groupe SFPI SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "VPK.AS",
+  "name" : "Koninklijke Vopak NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HSB.PA",
+  "name" : "HSBC Holdings PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MCP.LS",
+  "name" : "Grupo Media Capital SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPRI.PA",
+  "name" : "Soc Nat Proprietes d'Immeubles SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SMCP.PA",
+  "name" : "SMCP SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALADO.PA",
+  "name" : "Adomos SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AKW.PA",
+  "name" : "Akwel SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EUCAR.PA",
+  "name" : "Europcar Mobility Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EVS.BR",
+  "name" : "Evs Broadcast Equipment SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "REC.BR",
+  "name" : "Recticel NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "REN.AS",
+  "name" : "Relx PLC",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SCHP.PA",
+  "name" : "Seche Environnement SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IEP.BR",
+  "name" : "Iep Invest NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLATV.PA",
+  "name" : "A Toute Vitesse SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ANTA.PA",
+  "name" : "Antalis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IDL.PA",
+  "name" : "ID Logistics SAS",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KENDR.AS",
+  "name" : "Kendrion NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "PHR.LS",
+  "name" : "Pharol SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALPRO.PA",
+  "name" : "Prodware SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALP.PA",
+  "name" : "ADL Partner SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SESG.PA",
+  "name" : "SES SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SNC.LS",
+  "name" : "Sonaecom SGPS SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MF.PA",
+  "name" : "Wendel SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "YATRA.AS",
+  "name" : "Yatra Capital Ltd",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AB.PA",
+  "name" : "AB Science SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ADUX.PA",
+  "name" : "Adux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AGS.BR",
+  "name" : "Ageas SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BB.PA",
+  "name" : "Societe BIC SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CATR.PA",
+  "name" : "Caterpillar Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALCOF.PA",
+  "name" : "Cofidur SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CCN.PA",
+  "name" : "Caisse Regionale de Credit Agricole Mutuel de Normandie Seine SC",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DSM.AS",
+  "name" : "Koninklijke DSM NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FAST.AS",
+  "name" : "Fastned BV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FIPP.PA",
+  "name" : "F I P P SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GENK.BR",
+  "name" : "Vortex Logistics Genk NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALSTW.PA",
+  "name" : "Streamwide SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLCFD.PA",
+  "name" : "Cie de Chemins de Fer Departementaux SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "STTL.BR",
+  "name" : "Settlements SA",
+  "currency" : null,
+  "stockExchange" : null,
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ENVI.AS",
+  "name" : "Envipco Holding NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ERA.PA",
+  "name" : "Eramet SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ETL.PA",
+  "name" : "Eutelsat Communications SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EXPL.PA",
+  "name" : "Soc D Explosifs Produits Chimiques SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RMS.PA",
+  "name" : "Hermes International SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALADM.PA",
+  "name" : "Adthink SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLHYD.PA",
+  "name" : "Hydraulique PB SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MONC.PA",
+  "name" : "Financiere Moncey SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALONC.PA",
+  "name" : "Oncodesign SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IMCD.AS",
+  "name" : "IMCD NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NANO.PA",
+  "name" : "Nanobiotix SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RAM.LS",
+  "name" : "Ramada Investimentos e Industria SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TKWY.AS",
+  "name" : "Just Eat Takeaway.com NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLAAE.PA",
+  "name" : "Compagnie Aerienne Inter Regionale Express SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CRAP.PA",
+  "name" : "Caisse regionale de Credit Agricole Mutuel Alpes Provence",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FAYE.PA",
+  "name" : "Fayenceri Sarreguemin Digoin Vitry Franc SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EUR.PA",
+  "name" : "Euro Ressources SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "COX.PA",
+  "name" : "Nicox SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NN.AS",
+  "name" : "NN Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEVE.PA",
+  "name" : "Everset SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "KDS.AS",
+  "name" : "Kiadis Pharma NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPRO.PA",
+  "name" : "Proventure Gold Inc",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLVER.PA",
+  "name" : "Verney Carron SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ABO.BR",
+  "name" : "ABO Group Environment SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASIT.BR",
+  "name" : "Asit Biotech SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ASRNL.AS",
+  "name" : "ASR Nederland NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BSGR.AS",
+  "name" : "B&S Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLMAB.PA",
+  "name" : "Maison Antoine Baud SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLEDU.PA",
+  "name" : "Eduniversal SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLPVG.PA",
+  "name" : "Groupe Plus Values SA",
+  "currency" : null,
+  "stockExchange" : "YHD",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLDYX.PA",
+  "name" : "Dynex Energy SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ELIOR.PA",
+  "name" : "Elior Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "OPN.PA",
+  "name" : "Groupe Open SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "HEIJM.AS",
+  "name" : "Heijmans NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "JEN.BR",
+  "name" : "Jensen Group NV",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MMB.PA",
+  "name" : "Lagardere SCA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "SOLV.BR",
+  "name" : "Solvac SA",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTRO.PA",
+  "name" : "TronicS Microsystems SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALUPG.PA",
+  "name" : "Upergy",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "TFG.AS",
+  "name" : "Tetragon Financial Group Ltd",
+  "currency" : "USD",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLECO.PA",
+  "name" : "Ecolutions GmbH & Co KGaA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ARTE.PA",
+  "name" : "Artea SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "REI.BR",
+  "name" : "Reibel S.A.",
+  "currency" : "EUR",
+  "stockExchange" : "Brussels",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALARF.PA",
+  "name" : "Adeunis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALBLU.PA",
+  "name" : "Bluelinea SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CTRG.PA",
+  "name" : "Catering International & Services SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CLB.AS",
+  "name" : "Core Laboratories NV",
+  "currency" : "EUR",
+  "stockExchange" : "Amsterdam",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EDPR.LS",
+  "name" : "EDP Renovaveis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FNTS.PA",
+  "name" : "Finatis SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GPA.LS",
+  "name" : "Imobiliaria Construtora Grao Para SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLIFC.PA",
+  "name" : "Infoclip SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "IPH.PA",
+  "name" : "Innate Pharma SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "NOKIA.PA",
+  "name" : "Nokia Oyj",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "RED.LS",
+  "name" : "Reditus Sociedade Gestora de Participacoes Sociais SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GLE.PA",
+  "name" : "Societe Generale SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "GOE.PA",
+  "name" : "Groupe Gorge SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALINV.PA",
+  "name" : "Invibes Advertising NV",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LI.PA",
+  "name" : "Klepierre SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "DPAM.PA",
+  "name" : "Les Docks des Petroles d Ambes SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EDP.LS",
+  "name" : "EDP Energias de Portugal SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "EFI.PA",
+  "name" : "Eurasia Fonciere Investissements SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "FFP.PA",
+  "name" : "FFP SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "LIG.LS",
+  "name" : "Lisgrafica Impressao e Artes Graficas SA",
+  "currency" : "EUR",
+  "stockExchange" : "Lisbon",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALLLN.PA",
+  "name" : "Lleidanetworks Serveis Telematics SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALMAK.PA",
+  "name" : "Makheia Group SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "AUB.PA",
+  "name" : "Aubay SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "CBOT.PA",
+  "name" : "Cbo Territoria SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ALTAN.PA",
+  "name" : "Le Tanneur et Cie SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "ACAN.PA",
+  "name" : "Acanthe Developpement SE",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "BELI.PA",
+  "name" : "Le Belier SA",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+}, {
+  "symbol" : "MLSHD.PA",
+  "name" : "Scandinavian House Development AG",
+  "currency" : "EUR",
+  "stockExchange" : "Paris",
+  "exchangeShortName" : "EURONEXT"
+} ]

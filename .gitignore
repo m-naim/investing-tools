@@ -4,3 +4,11 @@
 **/*.html
 **/__pycache__
 **/logs
+config.py
+client
+**/models
+**/*.bat
+**/node_modules*
+**.h5
+**\variables**
+**ml_predictions/results

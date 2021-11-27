@@ -1,8 +1,8 @@
 from tensorflow.keras.layers import LSTM
 # Window size or the sequence length
-N_STEPS = 168
+N_STEPS = 100
 # Lookup step, 1 is the next day
-LOOKUP_STEP = 15
+LOOKUP_STEP = 4
 # whether to scale feature columns & output price as well
 SCALE = True
 # whether to shuffle the dataset
@@ -10,7 +10,7 @@ SHUFFLE = True
 # whether to split the training/testing set by date
 SPLIT_BY_DATE = False
 # test ratio size, 0.2 is 20%
-TEST_SIZE = 0.2
+TEST_SIZE = 0.3
 # features to use
 FEATURE_COLUMNS = ["adjclose", "volume", "open", "high", "low"]
 ### model parameters
@@ -30,4 +30,6 @@ BIDIRECTIONAL = False
 LOSS = "huber_loss"
 OPTIMIZER = "adam"
 BATCH_SIZE = 64
-EPOCHS = 5
+EPOCHS = 100
+
+PERIOD= "1wk"
