@@ -1,5 +1,5 @@
 from datetime import datetime
-from performance_anaysis.portfolio import portfolio_from_degiro_transactions
+# from performance_anaysis.portfolio import portfolio_from_degiro_transactions
 import pprint
 from numpy.core.fromnumeric import product
 import yfinance as yf
@@ -7,7 +7,7 @@ from pprint import pprint
 from config import db 
 from pandas import DataFrame
 import pandas as pd
-from yahoo_fin import stock_info as si
+import yahoo_fin.stock_info as si
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -85,7 +85,7 @@ def dump_ex_cash():
     add_cash_flow(amount_2)
 
 def calculate_performance(pf_name):
-    transactions=db.portfolios.find_one({'name': pf_name})['transactions']
+    transactions=db.portfolios.find_one({'name': 'current'})['transactions']
     transactions= DataFrame(transactions)
     stocks= list(set(transactions['symbol']))
     transactions=transactions.sort_values(by='date')
@@ -100,7 +100,7 @@ def calculate_performance(pf_name):
     stocks_weight['date']= dates
     initial_cash=460
     for idx,d in transactions.iterrows():
-        stocks_weight.loc[portfolio['date']>=d['date'], d['symbol']] = d['value']/initial_cash
+        stocks_weight.loc[portfolio['date']>=d['date'], d['symbol']] = d['price']/initial_cash
         portfolio.loc[portfolio['date']>=d['date'], d['symbol']] =portfolio.loc[portfolio['date']==d['date']].iloc[0][d['symbol']] + d['qty']
         
     result= pd.DataFrame(0, index=np.arange(len(dates)),columns= stocks)
@@ -112,21 +112,23 @@ def calculate_performance(pf_name):
     portfolio_returns=portfolio_returns.set_index('date')
     
     for s in stocks:
-        stocks_returns= si.get_data(s,date_min,date_max)
-        stocks_returns= stocks_returns['close'].pct_change()
+        stocks_returns= yf.Ticker(s).history(start=date_min,end=date_max,period="1d")['Close']
+        stocks_returns= stocks_returns.pct_change()
         portfolio_returns[s]=stocks_returns
         float_portfolio=portfolio[s].astype('float64')
         result[s]= stocks_returns*float_portfolio * stocks_weight[s]
     
     stocks_weight= stocks_weight*100
-    result=result.dropna()
     perf= DataFrame()
     perf['sum']= result.sum(axis=1)
-    perf['cum'] = (1 + perf['sum']).cumprod()
+    perf['cum_All'] = (1+perf['sum']).cumprod()
+    perf['cum_1Y'] = (1+perf['sum'].tail(365)).cumprod()
+    perf['cum_6M'] = (1+perf['sum'].tail(182)).cumprod()
+    perf['cum_1M'] = (1+perf['sum'].tail(30)).cumprod()
     perf= perf.reset_index()
     res= perf.to_dict('list')
-    pprint(res)
-    return result
+    db.portfolios.update_one({'name':"current"},{'$set':{"perfs": res}})
+    return perf
 
 def plot_graph(df):
     """
@@ -148,10 +150,9 @@ def plot_graph(df):
     plt.show()
 
 
-portfolio_name="current"
-# creat_allocation(portfolio_name)
-perf=calculate_performance(portfolio_name)
-perf['sum']= perf.sum(axis=1)
-perf['cum'] = (1 + perf['sum']).cumprod()
+# portfolio_name="current"
+# # creat_allocation(portfolio_name)
+# perf=calculate_performance(portfolio_name)
+# perf['sum']= perf.sum(axis=1)
+# perf['cum'] = (1 + perf['sum']).cumprod()
 # print(perf)
-# plot_graph(perf['cum'])
