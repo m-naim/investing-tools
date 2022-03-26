@@ -1,0 +1,14 @@
+pymongo
+Flask==1.1.4
+markupsafe==2.0.1
+APScheduler
+flask_apscheduler
+
+yfinance
+dnspython
+yahoo-fin
+matplotlib
+certifi
+asyncio
+python-dotenv
+requests
