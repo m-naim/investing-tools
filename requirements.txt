@@ -3,6 +3,7 @@ Flask==1.1.4
 markupsafe==2.0.1
 APScheduler
 flask_apscheduler
+gunicorn
 
 yfinance
 dnspython
