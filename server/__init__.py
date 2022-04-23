@@ -16,4 +16,4 @@ def serve(path):
     else:
         return send_from_directory(app.static_folder, 'index.html')
 
-from server import stocks, predictions, portfolio
+from server import stocks, predictions, portfolio, health

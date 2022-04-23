@@ -1,6 +1,5 @@
 from datetime import datetime
 # from performance_anaysis.portfolio import portfolio_from_degiro_transactions
-import pprint
 from numpy.core.fromnumeric import product
 import yfinance as yf
 from pprint import pprint
@@ -10,7 +9,8 @@ import pandas as pd
 import yahoo_fin.stock_info as si
 import numpy as np
 import matplotlib.pyplot as plt
-
+from bson.objectid import ObjectId 
+     
 def add_assets(portfolio):
     allocations=[]
     for allc in portfolio['allocation']:
@@ -33,17 +33,43 @@ def creat_allocation(pf_name):
     alloc= DataFrame()
     alloc['qty']= df.groupby("symbol") ['qty'].sum()
     alloc['bep']= df.groupby("symbol") ['price'].mean()
-    alloc['bep_eur']= df.groupby("symbol") ['value'].mean()
+    # alloc['bep_eur']= df.groupby("symbol") ['value'].mean()
     alloc= alloc.reset_index()
     symbols=alloc['symbol'].tolist()
     stocks= db.stocks.find({'symbol':{'$in': symbols}})
-    stocks_df = DataFrame(list(stocks))
-    stocks_df= stocks_df[['name', 'last', 'symbol']]
-    alloc=alloc.set_index('symbol').join(stocks_df.set_index('symbol'))
-    alloc= alloc.reset_index()
+    stocks_dict = dict((s["symbol"], s) for s in stocks)
+
+    alloc['asset'] = alloc['symbol'].apply(lambda x: ObjectId(stocks_dict[x]['_id']))
     balance= DataFrame.from_dict(pf['cash_flow'])['amount'].sum()
-    alloc['total_value']= alloc['qty']*alloc['last']
+    alloc['last']=alloc['symbol'].apply(lambda x: stocks_dict[x]['last']) 
+    alloc['total_value']= alloc['qty']*alloc['symbol'].apply(lambda x: stocks_dict[x]['last']) 
+    if alloc['total_value'].sum()>balance:
+        balance=alloc['total_value'].sum()
+
     alloc['weight']= alloc['total_value']/balance
+    alloc= alloc.loc[alloc['weight']>0]
+    allocation= list(alloc.to_dict(orient='index').values())
+    pprint(allocation)
+    db.portfolios.update_one({'name':pf_name},{'$set': {'allocation':allocation}})
+
+def update_allocation(pf_name):
+    pf= db.portfolios.find_one({'name':pf_name})
+    alloc= pf['allocation']
+    alloc=DataFrame.from_dict(alloc)
+
+    symbols=alloc['symbol'].tolist()
+    stocks= db.stocks.find({'symbol':{'$in': symbols}})
+    stocks_dict = dict((s["symbol"], s) for s in stocks)
+
+    alloc['asset'] = alloc['symbol'].apply(lambda x: ObjectId(stocks_dict[x]['_id']))
+    balance= DataFrame.from_dict(pf['cash_flow'])['amount'].sum()
+    alloc['last']=alloc['symbol'].apply(lambda x: stocks_dict[x]['last']) 
+    # alloc['total_value']= alloc['weight']*alloc['symbol'].apply(lambda x: stocks_dict[x]['last']) 
+    # if alloc['total_value'].sum()>balance:
+    #     balance=alloc['total_value'].sum()
+
+    # alloc['weight']= alloc['total_value']/balance
+    # alloc= alloc.loc[alloc['weight']>0]
     allocation= list(alloc.to_dict(orient='index').values())
     pprint(allocation)
     db.portfolios.update_one({'name':pf_name},{'$set': {'allocation':allocation}})
@@ -85,7 +111,8 @@ def dump_ex_cash():
     add_cash_flow(amount_2)
 
 def calculate_performance(pf_name):
-    transactions=db.portfolios.find_one({'name': 'current'})['transactions']
+    print("calculate perfs for: "+pf_name)
+    transactions=db.portfolios.find_one({'name': pf_name})['transactions']
     transactions= DataFrame(transactions)
     stocks= list(set(transactions['symbol']))
     transactions=transactions.sort_values(by='date')
@@ -127,7 +154,7 @@ def calculate_performance(pf_name):
     perf['cum_1M'] = (1+perf['sum'].tail(30)).cumprod()
     perf= perf.reset_index()
     res= perf.to_dict('list')
-    db.portfolios.update_one({'name':"current"},{'$set':{"perfs": res}})
+    db.portfolios.update_one({'name':pf_name},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
     return perf
 
 def plot_graph(df):

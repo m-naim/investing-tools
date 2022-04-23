@@ -3,13 +3,14 @@ import yfinance as yf
 import time
 import multiprocessing.pool as mp
 from pymongo import MongoClient, ssl_support
-
+from config import db 
+from datetime import datetime
 
 def get_last(s):
     obj={}
     hist={}
-    start = time.time()
-    print(start)
+    start = datetime.now()
+    print("upadating: " +s)
     try:
         ticker=yf.Ticker(s)
         obj['symbol'] = s
@@ -17,12 +18,16 @@ def get_last(s):
         history=ticker.history(period='10y',interval="1d")['Close'].reset_index().to_dict('records')
         hist['history']=history
         obj['last'] = ticker.history(period="1d").iloc[0]['Close']
-        obj['sector'] = ticker.info['sector']
-        obj['industry'] = ticker.info['industry']
-        obj['currency'] = ticker.info['currency']
-        obj['country'] = ticker.info['country']
-        obj['name'] = ticker.info['longName']
+        if "sector" in ticker.info:
+            obj['sector'] = ticker.info['sector']
 
+        if "industry" in ticker.info:
+            obj['industry'] = ticker.info['industry']
+        obj['currency'] = ticker.info['currency']
+        if "country" in ticker.info:
+            obj['country'] = ticker.info['country']
+        obj['name'] = ticker.info['longName']
+        obj['last_update'] = start
         db.stocks.update_one({'symbol': s},{'$set': obj}, upsert=True)
         db.histories.update_one({'symbol': s},{'$set': hist}, upsert=True)
         
@@ -32,8 +37,8 @@ def get_last(s):
         # db.stocks.delete_one({'Symbol':s})
         # print(s+" dont exist")
 
-def update(symbs):            
-    if __name__=="__main__":
+def update(symbs):   
+        print('start updating stocks')
         p=mp.Pool(8)
         start = time.time()
         p.map(get_last,symbs) 
@@ -42,9 +47,9 @@ def update(symbs):
         end = time.time()
         print("The time of execution of above program is :", end-start)
 
-def get_portfolios_symbs():
-    pfs=list(db.portfolios.find({'name':'current'}))
-    symbols= [ allc['symbol'] for pf in pfs for allc in pf['allocation']]
+def get_portfolios_symbs(pf_name):
+    pfs=list(db.portfolios.find({'name': pf_name }))
+    symbols= [ allc['symbol'] for pf in pfs for allc in pf['transactions']]
     return symbols
 
 def get_all_symbs():
