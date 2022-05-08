@@ -8,7 +8,7 @@ from update_last import get_portfolios_symbs, update
 import requests
 class Config:
     SCHEDULER_API_ENABLED = True
-    SCHEDULER_TIMEZONE = "Europe/Paris" 
+    SCHEDULER_TIMEZONE = "Europe/Berlin" 
 
 scheduler = APScheduler()
 
