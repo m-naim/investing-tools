@@ -1,16 +1,12 @@
 from datetime import datetime
 from multiprocessing.connection import wait
-from unittest import result
 from dump_stocks import calculate_performance
-from flask_apscheduler import APScheduler
 from config import db
 from update_last import get_portfolios_symbs, update 
 import requests
-class Config:
-    SCHEDULER_API_ENABLED = True
-    SCHEDULER_TIMEZONE = "Europe/Berlin" 
+from apscheduler.schedulers.blocking import BlockingScheduler
 
-scheduler = APScheduler()
+scheduler = BlockingScheduler()
 
 # interval example
 @scheduler.task('cron', id='do_job_1',day_of_week='mon-fri', hour="9-23/1")
