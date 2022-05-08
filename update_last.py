@@ -58,3 +58,24 @@ def get_all_symbs():
     return symbs
 
 
+def get_last_index(s):
+    obj={}
+    hist={}
+    start = datetime.now()
+    print("upadating: " +s)
+    try:
+        ticker=yf.Ticker(s)
+        obj['symbol'] = s
+        history=ticker.history(period='10y',interval="1d")['Close']
+        # obj['history']=history.reset_index().to_dict('records')
+        obj['last'] = ticker.history(period="1d").iloc[0]['Close']
+        if "country" in ticker.info:
+            obj['country'] = ticker.info['country']
+        obj['last_update'] = start
+        # perfs=(1+history.pct_change()).cumprod()
+        # obj['perf']=0
+        # print(perfs)
+        db.stocks.update_one({'symbol': s},{'$set': obj}, upsert=True)
+    except Exception as e: 
+        print("Error on "+s+": ")
+        print(e)
