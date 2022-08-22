@@ -1,0 +1,6 @@
+pandas 
+quantstats
+numpy
+yahoo_fin
+yfinance
+openpyxl

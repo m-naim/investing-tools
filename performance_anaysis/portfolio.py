@@ -1,12 +1,14 @@
+from ast import Try
 from datetime import date
 import pandas as pd
 import quantstats as qs
 import numpy as np
 from yahoo_fin import stock_info as si
 from datetime import datetime
-
+from bson import ObjectId
 import yfinance
-
+from pandas import DataFrame
+from importlib.machinery import SourceFileLoader
 
 def portfolio_from_degiro_transactions():
     transactions=pd.read_csv("transactions(1).csv")
@@ -56,8 +58,21 @@ def portfolio_from_degiro_transactions():
 # df=pd.read_excel("stocksDictionary.xlsx")
 # del df['Unnamed: 0']
 # print(df)
+
+db = SourceFileLoader('*', '../config.py').load_module().db
+
 if __name__=="__main__":
-    retuns_data=portfolio_from_degiro_transactions()
-    retuns_data['sum']= retuns_data.sum(axis=1)
+    # retuns_data=portfolio_from_degiro_transactions()
+    # retuns_data['sum']= retuns_data.sum(axis=1)
     # retuns_data['cum'] = (1 + retuns_data['sum']).cumprod()
-    qs.reports.html(retuns_data['sum'], "SPY", output="perf.html")
+    # print(retuns_data['sum'])
+    # metrics=qs.reports.metrics(mode='full', returns=retuns_data['sum'],display=False).T.to_dict('records')
+    try:
+        portfolio=db.portfolios.find_one({'_id': ObjectId('6141fcfef2ae7e6fb0122251')});
+        df= DataFrame(portfolio['perfs']).set_index('date')
+        qs.reports.html(df['sum'], "SPY", output="per.html")
+    except:
+        print('error')
+
+
+

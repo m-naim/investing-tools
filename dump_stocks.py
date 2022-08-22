@@ -176,7 +176,7 @@ def plot_graph(df):
     # fig.savefig(graph_name, bbox_inches='tight', dpi=150)
     plt.show()
 
-
+creat_allocation("current")
 # portfolio_name="current"
 # # creat_allocation(portfolio_name)
 # perf=calculate_performance(portfolio_name)

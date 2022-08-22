@@ -1,4 +1,4 @@
 from server import app
 
 if __name__ == '__main__':
-    app.run(debug=False,use_reloader=False, port=8080, threaded=False)
+    app.run(debug=True,use_reloader=True, port=8080, threaded=False)

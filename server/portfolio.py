@@ -11,33 +11,43 @@ import pandas as pd
 from yahoo_fin import stock_info as si
 import numpy as np
 from datetime import datetime
+from bson import ObjectId
+import quantstats as qs
 
 
 db = SourceFileLoader('*', './config.py').load_module().db
-@app.route("/api/v1/portfolio", methods=['GET'])
-def fetch_portfolio():
-    collection = db.portfolios.find_one({'name':"current"})
 
-    if collection!= None:
-            return respose_success(collection)
+
+@app.route("/api/v1/portfolio/<id>/performance", methods=['GET'])
+def get_portfolio_performance(id):
+
+    res= calculate_performance(id)
+    if res!= None:
+            return respose_success(res)
     else:
-        return jsonify([])
+        return jsonify({})
 
-@app.route("/api/v1/portfolio", methods=['post'])
-def post_portfolio():
-    collection = db.portfolios.find_one({'name':"us dividends"})
-    pf_stocks=[]
 
-    collection['allocation']= pf_stocks
-    print(collection['allocation'])
-    if collection!= None:
-            return respose_success(collection)
+@app.route("/api/v1/portfolio/<id>/stats", methods=['GET'])
+def get_portfolio_stats(id):
+    portfolio=db.portfolios.find_one({'_id': ObjectId(id)});
+    delta= portfolio['last_perfs_update'] - datetime.now() 
+    print(delta)
+    res=portfolio['perfs']
+    if(delta.total_seconds()/3600 > 1): 
+        res= calculate_performance(id)
+    
+    df= DataFrame(res).set_index('date')
+    metrics=qs.reports.metrics(mode='full', returns=df['sum'],display=False).T.to_dict('records')
+
+    if metrics!= None:
+            return respose_success(metrics)
     else:
-        return jsonify([])
+        return jsonify({})
 
-@app.route("/api/v1/portfolio/performance", methods=['GET'])
-def get_portfolio_performance():
-    transactions=db.portfolios.find_one({'name': 'current'})['transactions']
+def calculate_performance(id):
+    print("calculate perfs for: "+id)
+    transactions=db.portfolios.find_one({'_id': ObjectId(id)})['transactions']
     transactions= DataFrame(transactions)
     stocks= list(set(transactions['symbol']))
     transactions=transactions.sort_values(by='date')
@@ -50,9 +60,9 @@ def get_portfolio_performance():
     portfolio_returns= pd.DataFrame(0, index=np.arange(len(dates)),columns= stocks)
     portfolio['date'] = dates
     stocks_weight['date']= dates
-    initial_cash=460
+    initial_cash=2000
     for idx,d in transactions.iterrows():
-        stocks_weight.loc[portfolio['date']>=d['date'], d['symbol']] = d['price']/initial_cash
+        stocks_weight.loc[portfolio['date']>=d['date'], d['symbol']] = float(d['price'])/initial_cash
         portfolio.loc[portfolio['date']>=d['date'], d['symbol']] =portfolio.loc[portfolio['date']==d['date']].iloc[0][d['symbol']] + d['qty']
         
     result= pd.DataFrame(0, index=np.arange(len(dates)),columns= stocks)
@@ -73,11 +83,11 @@ def get_portfolio_performance():
     stocks_weight= stocks_weight*100
     perf= DataFrame()
     perf['sum']= result.sum(axis=1)
-    perf['cum'] = (1 + perf['sum']).cumprod()
+    perf['cum_All'] = (1+perf['sum']).cumprod()
+    perf['cum_1Y'] = (1+perf['sum'].tail(365)).cumprod()
+    perf['cum_6M'] = (1+perf['sum'].tail(182)).cumprod()
+    perf['cum_1M'] = (1+perf['sum'].tail(30)).cumprod()
     perf= perf.reset_index()
-    print(perf)
     res= perf.to_dict('list')
-    if res!= None:
-            return respose_success(res)
-    else:
-        return jsonify({})
+    db.portfolios.update_one({'_id': ObjectId(id)},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
+    return res
