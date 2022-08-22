@@ -13,3 +13,9 @@ certifi
 asyncio
 python-dotenv
 requests
+
+pandas 
+quantstats
+numpy
+yahoo_fin
+openpyxl
