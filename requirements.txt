@@ -19,3 +19,5 @@ quantstats
 numpy
 yahoo_fin
 openpyxl
+
+flask-cors
