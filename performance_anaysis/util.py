@@ -20,6 +20,6 @@ def plot_graph(df):
     plt.show()
 
 
-def plot_graph_multiple(df,ticker):
+def plot_graph_multiple(df):
     df.plot( y=df.columns.values,use_index=True,kind="line", figsize=(10, 10))
     plt.show()

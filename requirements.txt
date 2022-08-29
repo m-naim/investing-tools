@@ -21,3 +21,5 @@ yahoo_fin
 openpyxl
 
 flask-cors
+investpy
+yahooquery

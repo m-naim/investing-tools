@@ -3,11 +3,12 @@ from importlib.machinery import SourceFileLoader
 from datetime import datetime
 import yfinance
 
-db = SourceFileLoader('*', '../config.py').load_module().db
+# db = SourceFileLoader('*', '../config.py').load_module().db
 stocks_dictionary_file=pd.read_excel("stocksDictionary.xlsx")
-stocks_dictionary=stocks_dictionary_file.set_index('Names')
-stocks_dictionary= stocks_dictionary[['Symboles']]
-dict=stocks_dictionary.T.to_dict('records')[0]
+print(stocks_dictionary_file)
+# stocks_dictionary=stocks_dictionary_file.set_index('Names')
+# stocks_dictionary= stocks_dictionary[['Symboles']]
+# dict=stocks_dictionary.T.to_dict('records')[0]
 
 def print_trans():
     transactions_file=pd.read_csv("transactions(1).csv")
@@ -38,14 +39,15 @@ def compute_allocation(trns):
     allocation=allocation.to_dict('records')
     return allocation
 
-trns=portfolio_from_degiro_transactions()
-alloc=compute_allocation(trns)
+def main():
+    trns=portfolio_from_degiro_transactions()
+    alloc=compute_allocation(trns)
 
-try:
-    collection = db.portfolios.find_one({'name':"current"})
-    collection['allocation']= alloc
-    collection['transactions']=trns
-    db.portfolios.update_one({'name':"current"},{'$set':collection})
+    try:
+        collection = db.portfolios.find_one({'name':"current"})
+        collection['allocation']= alloc
+        collection['transactions']=trns
+        db.portfolios.update_one({'name':"current"},{'$set':collection})
 
-except Exception as e:
-    print(e)
+    except Exception as e:
+        print(e)
