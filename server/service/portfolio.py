@@ -38,7 +38,6 @@ def calculate_performance_fixed(id):
     portfolio=portfolio.set_index('Date')
 
     result= df_stocks[stocks]*portfolio[stocks]
-    # plot_graph_multiple(result[['IHPCF']])
     result['value']= result.sum(axis=1)
     result['pnl']= result['value'] - portfolio['invested'] 
     result['cash']= portfolio['cash']
@@ -52,7 +51,7 @@ def calculate_performance_fixed(id):
     perf= result[['performance','total','pnl']].reset_index().rename(columns={'Date':'date'})
     res= perf.to_dict('list')
     db.portfolios.update_one({'_id':ObjectId(id)},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
-    return perf
+    return res
 
 def get_stocks(stocks,date_min):
     start= datetime.now()

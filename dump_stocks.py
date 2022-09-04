@@ -278,7 +278,7 @@ def get_dividends(id):
 def test():
     # res=get_stocks(['MSFT','AAPL','ACA.PA'],"2021-01-01")
     # print(res)
-    res=calculate_performance_fixed('6300ed81d08cb823d0225828')
+    res=calculate_performance_fixed('630e79d11c50a20016b63fd2')
     # get_dividends('62b38bb44bccfe2988898a2b')
 
 def plot_graph(df):
