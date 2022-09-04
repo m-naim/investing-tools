@@ -178,12 +178,12 @@ def calculate_performance_fixed(id):
 
     movements=list(pft['cash_flow'])
     for m in movements:
-         portfolio.loc[portfolio['Date']>=m['date'], 'apport'] =portfolio.loc[portfolio['Date']==m['date']].iloc[0]['apport'] + m['amount']
+         portfolio.loc[portfolio['Date']>=m['date'], 'apport'] += m['amount']
 
     for i,transaction in transactions.iterrows():
-        portfolio.loc[portfolio['Date']>=transaction['date'], transaction['symbol']] = portfolio.loc[portfolio['Date']==transaction['date']].iloc[0][transaction['symbol']] + transaction['qty']
+        portfolio.loc[portfolio['Date']>=transaction['date'], transaction['symbol']] += transaction['qty']
         portfolio.loc[portfolio['Date']>=transaction['date'], 'invested'] += float(transaction['price'])
-
+    
     portfolio['cash'] = portfolio['apport']- portfolio['invested'] 
     portfolio=portfolio.sort_values(by='Date')
 
@@ -199,20 +199,25 @@ def calculate_performance_fixed(id):
     result['apport']= portfolio['apport']
     result['invested']= portfolio['invested']
     result['total']= result['value']+ portfolio['cash']
-    result['performance']= -(1+result['pnl'].pct_change()).cumprod()
+    result['daily_returns']= (result['pnl']+1).pct_change()
+    result['all']= result['invested']+ np.where(result['cash']>0, result['cash'], 0) 
+    result['performance']= result['pnl']/result['all']*100
     result.dropna(inplace=True)
     perf= result[['performance','total','pnl']].reset_index().rename(columns={'Date':'date'})
     res= perf.to_dict('list')
     db.portfolios.update_one({'_id':ObjectId(id)},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
     return perf
 
-
 def get_stocks(stocks,date_min):
     start= datetime.now()
     stockArray= []
     for s in stocks:
         stock=db.histories.find_one({'symbol': s})
+        if stock is None:
+            stock= {'history':{}}
+
         if not('last_update' in stock) or stock['last_update'].date()<datetime.today().date():
+            print(s,date_min)
             stock['history']= yf.Ticker(s).history(start=date_min,period="1d").reset_index()[['Date','Close']].to_dict('records')
             stock['last_update']=datetime.today()
             db.histories.replace_one({'symbol': s}, stock)
@@ -234,6 +239,8 @@ def get_dividends(id):
     stocks= list(set(transactions['symbol']))
     transactions=transactions.sort_values(by='date')
     date_min= transactions['date'].iloc[0]
+    if(type(date_min)==str):
+        date_min= datetime.strptime(date_min, '%Y-%m-%d')
     dividensArray= []
 
     for s in stocks:
@@ -248,6 +255,7 @@ def get_dividends(id):
         dividensArray.append(df)
 
     dividends_df= pd.concat(dividensArray,axis=1, join='outer')
+    print(date_min)
     dividends_df=dividends_df.loc[dividends_df.index>=date_min]
 
     portfolio = pd.DataFrame(0, index=np.arange(len(dividends_df.index)),columns= stocks)
@@ -267,13 +275,11 @@ def get_dividends(id):
     dividends= {'monthy':monthy,'yearly':yearly}
     db.portfolios.update_one({'_id':ObjectId(id)},{'$set':{"dividends": dividends}})
     
-
 def test():
     # res=get_stocks(['MSFT','AAPL','ACA.PA'],"2021-01-01")
     # print(res)
-    # res=calculate_performance_fixed('6141fcfef2ae7e6fb0122251')
-    # print(res)
-    get_dividends('6141fcfef2ae7e6fb0122251')
+    res=calculate_performance_fixed('6300ed81d08cb823d0225828')
+    # get_dividends('62b38bb44bccfe2988898a2b')
 
 def plot_graph(df):
     """

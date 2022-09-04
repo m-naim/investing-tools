@@ -20,21 +20,19 @@ def calculate_performance_fixed(id):
     df_stocks= get_stocks(stocks,date_min).reset_index().sort_values(by='Date')
     # df_stocks.dropna(inplace=True)  
     portfolio = pd.DataFrame(0, index=np.arange(len(df_stocks['Date'])),columns= stocks+['cash','apport','invested'])
-    invested = pd.DataFrame(0, index=np.arange(len(df_stocks['Date'])),columns= stocks)
     portfolio['Date'] = df_stocks['Date']
-    invested['Date'] = df_stocks['Date']
 
     movements=list(pft['cash_flow'])
     for m in movements:
-         portfolio.loc[portfolio['Date']>=m['date'], 'apport'] =portfolio.loc[portfolio['Date']==m['date']].iloc[0]['apport'] + m['amount']
+         portfolio.loc[portfolio['Date']>=m['date'], 'apport'] += m['amount']
 
     for i,transaction in transactions.iterrows():
-        portfolio.loc[portfolio['Date']>=transaction['date'], transaction['symbol']] = portfolio.loc[portfolio['Date']==transaction['date']].iloc[0][transaction['symbol']] + transaction['qty']
+        portfolio.loc[portfolio['Date']>=transaction['date'], transaction['symbol']] += transaction['qty']
         portfolio.loc[portfolio['Date']>=transaction['date'], 'invested'] += float(transaction['price'])
-
- 
+    
     portfolio['cash'] = portfolio['apport']- portfolio['invested'] 
     portfolio=portfolio.sort_values(by='Date')
+
 
     df_stocks= df_stocks.set_index('Date')
     portfolio=portfolio.set_index('Date')
@@ -47,19 +45,25 @@ def calculate_performance_fixed(id):
     result['apport']= portfolio['apport']
     result['invested']= portfolio['invested']
     result['total']= result['value']+ portfolio['cash']
-    result['performance']= -(1+result['pnl'].pct_change()).cumprod()
+    result['daily_returns']= (result['pnl']+1).pct_change()
+    result['all']= result['invested']+ np.where(result['cash']>0, result['cash'], 0) 
+    result['performance']= result['pnl']/result['all']*100
     result.dropna(inplace=True)
     perf= result[['performance','total','pnl']].reset_index().rename(columns={'Date':'date'})
     res= perf.to_dict('list')
-    db.portfolios.update_one({'_id':id},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
-    return res
+    db.portfolios.update_one({'_id':ObjectId(id)},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
+    return perf
 
 def get_stocks(stocks,date_min):
     start= datetime.now()
     stockArray= []
     for s in stocks:
         stock=db.histories.find_one({'symbol': s})
+        if stock is None:
+            stock= {'history':{}}
+
         if not('last_update' in stock) or stock['last_update'].date()<datetime.today().date():
+            print(s,date_min)
             stock['history']= yf.Ticker(s).history(start=date_min,period="1d").reset_index()[['Date','Close']].to_dict('records')
             stock['last_update']=datetime.today()
             db.histories.replace_one({'symbol': s}, stock)
