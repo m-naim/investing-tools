@@ -4,11 +4,8 @@ from server import app, stocks
 from server.helpers import respose_success
 from flask import  jsonify
 from importlib.machinery import SourceFileLoader
-import yfinance as yf
 
 from pandas import DataFrame
-import pandas as pd
-from yahoo_fin import stock_info as si
 import numpy as np
 from datetime import datetime
 from bson import ObjectId

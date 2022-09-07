@@ -35,8 +35,13 @@ if __name__ == '__main__':
     # update_indexs_job()
     # calculate_performance_fixed()
     test()
-    # data=yf.Ticker('MSFT').get_isin()
+
+    # data=yf.Ticker('MSFT').get_info()['logo_url']
     # print(data)
+
+    # update_stocks_job()
+
+    # update_indexs_job()
 
     # isin2stockprice('FR0000053381')
 

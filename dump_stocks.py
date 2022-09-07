@@ -170,6 +170,7 @@ def calculate_performance_fixed(id):
     stocks= list(set(transactions['symbol']))
     transactions=transactions.sort_values(by='date')
     date_min= transactions['date'].iloc[0]
+    print(date_min)
 
     df_stocks= get_stocks(stocks,date_min).reset_index().sort_values(by='Date')
     # df_stocks.dropna(inplace=True)  
@@ -204,6 +205,8 @@ def calculate_performance_fixed(id):
     result['performance']= result['pnl']/result['all']*100
     result.dropna(inplace=True)
     perf= result[['performance','total','pnl']].reset_index().rename(columns={'Date':'date'})
+    show(result)
+    plot_graph(result['total'])
     res= perf.to_dict('list')
     db.portfolios.update_one({'_id':ObjectId(id)},{'$set':{"perfs": res,"last_perfs_update": datetime.now() }})
     return perf
@@ -278,7 +281,7 @@ def get_dividends(id):
 def test():
     # res=get_stocks(['MSFT','AAPL','ACA.PA'],"2021-01-01")
     # print(res)
-    res=calculate_performance_fixed('630e79d11c50a20016b63fd2')
+    res=calculate_performance_fixed('6315177eababbe0d50f66376')
     # get_dividends('62b38bb44bccfe2988898a2b')
 
 def plot_graph(df):

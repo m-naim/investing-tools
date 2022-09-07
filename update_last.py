@@ -28,6 +28,7 @@ def get_last(s):
             obj['country'] = ticker.info['country']
         obj['name'] = ticker.info['longName']
         obj['last_update'] = start
+        obj['logo']= ticker.info['logo_url']
         db.stocks.update_one({'symbol': s},{'$set': obj}, upsert=True)
         db.histories.update_one({'symbol': s},{'$set': hist}, upsert=True)
         
@@ -67,7 +68,7 @@ def get_last_index(s):
         ticker=yf.Ticker(s)
         obj['symbol'] = s
         history=ticker.history(period='10y',interval="1d")['Close']
-        # obj['history']=history.reset_index().to_dict('records')
+        obj['history']=history.reset_index().to_dict('records')
         obj['last'] = ticker.history(period="1d").iloc[0]['Close']
         if "country" in ticker.info:
             obj['country'] = ticker.info['country']
